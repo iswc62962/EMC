@@ -1,0 +1,5 @@
+epsilon	initial sameas ratio	nb sameas > 0.8	all sameas	nb sameas > 0.8/all sameas	mean ratio
+[]	6.601770353113879e-06	0	1546	0.0	zero division
+['graduatedfrom-inv']	0.06575449569976544	175	841	0.2080856123662307	0.9768963372825411
+['islocatedin']	7.629404743134004e-05	1	570	0.0017543859649122807	1.0
+['graduatedfrom-inv', 'islocatedin']	0.0297244094488189	27	151	0.17880794701986755	1.0

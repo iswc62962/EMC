@@ -1,0 +1,20 @@
+context	nb sameas	all_pair	ratio
+['islocatedin']['islocatedin', 'skos:preflabel']['haslatitude', 'haslongitude', 'islocatedin-inv']	12	233999	5.128227043705315e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['haslatitude', 'haslongitude']	1282	6523517	0.00019651976073642484
+['islocatedin']['skos:preflabel']['haslatitude', 'haslongitude']	685	232810	0.0029423134745071087
+['islocatedin']['skos:preflabel'][]	171	146592	0.0011665029469548134
+['islocatedin']['islocatedin', 'skos:preflabel'][]	168	3165480	5.307251980742257e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['happenedin-inv', 'haslatitude', 'haslongitude']	2	17802	0.00011234692731153803
+['islocatedin']['islocatedin']['haslatitude', 'haslongitude', 'skos:preflabel']	5	8754	0.0005711674663011195
+['islocatedin']['islocatedin']['islocatedin-inv', 'skos:preflabel']	4	1818	0.0022002200220022
+['islocatedin']['haslatitude', 'haslongitude', 'skos:preflabel'][]	2	24131	8.288094152749576e-05
+['islocatedin']['islocatedin']['happenedin-inv', 'islocatedin-inv', 'skos:preflabel']	2	222	0.009009009009009009
+['islocatedin']['islocatedin', 'skos:preflabel']['islocatedin-inv']	10	134791	7.418892952793584e-05
+['islocatedin']['skos:preflabel']['haslatitude', 'haslongitude', 'islocatedin-inv']	12	2038	0.005888125613346418
+['islocatedin']['islocatedin']['skos:preflabel']	14	31562	0.0004435713833090425
+['islocatedin']['skos:preflabel']['happenedin-inv', 'haslatitude', 'haslongitude']	3	511	0.005870841487279843
+['islocatedin']['haslatitude', 'haslongitude', 'islocatedin', 'skos:preflabel'][]	9	944375	9.530112508272667e-06
+['islocatedin']['skos:preflabel']['islocatedin-inv']	3	1407	0.0021321961620469083
+['islocatedin'][]['islocatedin-inv', 'skos:preflabel']	2	25	0.08
+['islocatedin']['skos:preflabel']['happenedin-inv', 'islocatedin-inv']	1	17	0.058823529411764705
+['islocatedin']['islocatedin', 'skos:preflabel']['happenedin-inv', 'islocatedin-inv']	1	8115	0.00012322858903265557

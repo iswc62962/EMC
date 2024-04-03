@@ -1,0 +1,226 @@
+context	nb sameas	all_pair	ratio
+[]['skos:preflabel']['actedin']	80	7362689	1.0865595436667229e-05
+[]['skos:preflabel']['wasbornonyear']	189	14256080	1.325750136082289e-05
+[]['skos:preflabel']['diedonyear', 'wasbornonyear']	87	6905845	1.259802384791434e-05
+[]['skos:preflabel'][]	237	12326164	1.9227393047828992e-05
+[]['skos:preflabel']['actedin', 'wasbornonyear']	80	8968224	8.920383790592207e-06
+[]['skos:preflabel', 'wasbornonyear']['actedin', 'wasbornondate']	3	4658180	6.44028354421684e-07
+[]['skos:preflabel']['actedin', 'diedonyear', 'wasbornonyear']	58	4342766	1.3355543448576322e-05
+[]['skos:preflabel', 'wasbornin', 'wasbornondate', 'wasbornonyear'][]	1	6032046	1.6578122912192645e-07
+[]['skos:preflabel']['actedin', 'wasbornin']	7	2369044	2.9547783831790375e-06
+[]['skos:preflabel']['diedonyear', 'wasbornin', 'wasbornondate', 'wasbornonyear']	1	401481	2.490777894844339e-06
+[]['skos:preflabel']['diedonyear', 'wasbornin', 'wasbornonyear']	2	1436214	1.3925501352862455e-06
+[]['skos:preflabel']['wasbornin', 'wasbornondate', 'wasbornonyear']	5	23733722	2.1067070727465334e-07
+[]['skos:preflabel']['actedin', 'wasbornin', 'wasbornonyear']	18	3936760	4.572287871244373e-06
+[]['skos:preflabel']['wasbornin', 'wasbornonyear']	19	4521111	4.202506861698375e-06
+[]['actedin', 'skos:preflabel']['wasbornonyear']	5	695577	7.1882767831598805e-06
+[]['skos:preflabel']['iscitizenof', 'wasbornonyear']	6	282763	2.1219183556547357e-05
+[]['skos:preflabel']['created', 'wasbornonyear']	6	419873	1.4290035320203966e-05
+[]['skos:preflabel']['wasbornin']	15	2500065	5.9998440040558945e-06
+[]['actedin', 'skos:preflabel']['diedonyear', 'wasbornonyear']	2	336097	5.95066305263064e-06
+[]['skos:preflabel']['actedin', 'created']	2	309988	6.451862652747848e-06
+[]['skos:preflabel']['diedin', 'diedonyear', 'directed', 'wasbornin', 'wasbornonyear']	1	19142	5.224114512590116e-05
+[]['skos:preflabel']['actedin', 'created', 'wasbornonyear']	4	402146	9.94663629627051e-06
+[]['skos:preflabel']['diedin', 'diedonyear', 'wasbornonyear']	2	181207	1.1037101215736699e-05
+[]['skos:preflabel']['diedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	10	620308	1.6121023749492187e-05
+[]['skos:preflabel']['actedin', 'ismarriedto', 'ismarriedto-inv', 'wasbornonyear']	3	45824	6.546787709497207e-05
+[]['skos:preflabel']['diedonyear']	12	238394	5.033683733651015e-05
+[]['actedin', 'skos:preflabel']['ismarriedto', 'wasbornonyear']	1	30481	3.2807322594403074e-05
+[]['skos:preflabel']['actedin', 'diedonyear', 'directed', 'wasbornonyear']	2	103098	1.9399018409668472e-05
+[]['actedin', 'skos:preflabel'][]	3	390633	7.67984271682116e-06
+[]['skos:preflabel']['created']	4	339365	1.1786719314012936e-05
+[]['skos:preflabel']['actedin', 'ismarriedto-inv', 'wasbornonyear']	1	179766	5.56278717888811e-06
+[]['directed', 'skos:preflabel'][]	1	246	0.0040650406504065045
+[]['skos:preflabel']['diedonyear', 'directed', 'wasbornonyear']	1	113191	8.834624660971278e-06
+[]['skos:preflabel']['actedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	3	1370037	2.189721883423586e-06
+[]['skos:preflabel']['diedonyear', 'ismarriedto', 'wasbornonyear']	1	122395	8.170268393316721e-06
+[]['skos:preflabel', 'wasbornondate', 'wasbornonyear']['actedin', 'wasbornin']	1	14390846	6.94886179728419e-08
+[]['skos:preflabel']['iscitizenof']	1	247728	4.0366853968869085e-06
+[]['actedin', 'skos:preflabel']['diedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	1	44004	2.2725206799381876e-05
+[]['skos:preflabel']['wasbornondate', 'wasbornonyear']	6	10742084	5.585508361319833e-07
+[]['skos:preflabel']['actedin', 'created', 'diedonyear', 'wasbornonyear']	3	193640	1.549266680437926e-05
+[]['skos:preflabel', 'wasbornonyear']['wasbornin', 'wasbornondate']	2	21582387	9.266815575126143e-08
+[]['skos:preflabel']['actedin', 'diedonyear']	2	143524	1.3934951645717789e-05
+[]['skos:preflabel']['actedin', 'diedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	2	441920	4.525706010137581e-06
+[]['skos:preflabel']['actedin', 'diedonyear', 'ismarriedto-inv', 'wasbornonyear']	1	87215	1.1465917560052743e-05
+[]['skos:preflabel']['actedin', 'ismarriedto', 'wasbornin']	1	68791	1.4536785335290953e-05
+[][]['created', 'skos:preflabel']	1	53670	1.863238308179616e-05
+[]['skos:preflabel']['ismarriedto', 'ismarriedto-inv', 'wasbornonyear']	4	102171	3.9150052363195034e-05
+[]['skos:preflabel']['actedin', 'ismarriedto', 'ismarriedto-inv']	1	25353	3.944306393720664e-05
+[]['skos:preflabel']['actedin', 'directed']	1	141960	7.044237813468583e-06
+[]['skos:preflabel', 'wasbornin']['haschild', 'wasbornondate', 'wasbornonyear']	1	10022	9.978048293753742e-05
+[]['skos:preflabel']['actedin', 'wasbornondate', 'wasbornonyear']	3	9159427	3.2753140562177087e-07
+[]['skos:preflabel', 'wasbornonyear']['iscitizenof', 'wasbornondate']	1	698866	1.4308894695120381e-06
+[]['skos:preflabel']['created', 'diedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	1	17221	5.806863712908658e-05
+[]['skos:preflabel']['created', 'diedonyear', 'iscitizenof', 'wasbornonyear']	1	11687	8.556515786771627e-05
+[]['skos:preflabel']['actedin', 'iscitizenof', 'wasbornonyear']	1	386298	2.588675064328575e-06
+[]['skos:preflabel']['diedondate', 'diedonyear']	1	329599	3.033989787590375e-06
+[]['skos:preflabel']['diedonyear', 'iscitizenof', 'wasbornin', 'wasbornonyear']	1	43299	2.3095221598651238e-05
+[][]['actedin', 'skos:preflabel']	1	1073400	9.316191540898081e-07
+[]['skos:preflabel']['actedin', 'wasbornin', 'wasbornondate', 'wasbornonyear']	2	27012513	7.403976075828266e-08
+[]['created', 'skos:preflabel']['directed']	1	1192	0.0008389261744966443
+[]['skos:preflabel']['created', 'diedonyear', 'directed', 'wasbornonyear']	1	65281	1.531839279422803e-05
+[]['skos:preflabel']['created', 'diedonyear', 'wasbornonyear']	1	217802	4.591326066794612e-06
+[]['skos:preflabel']['ismarriedto', 'ismarriedto-inv']	1	79356	1.2601441604919602e-05
+[]['skos:preflabel']['actedin', 'haswonprize', 'wasbornin', 'wasbornonyear']	1	204135	4.898718984985426e-06
+[]['created', 'skos:preflabel'][]	1	2012	0.0004970178926441351
+[]['actedin', 'skos:preflabel']['wasbornin', 'wasbornonyear']	1	395489	2.5285153316527137e-06
+[][]['actedin', 'diedonyear', 'skos:preflabel', 'wasbornonyear']	1	601380	1.6628421297681998e-06
+[]['actedin', 'skos:preflabel']['wasbornin']	1	167950	5.954153021732658e-06
+[]['skos:preflabel']['actedin', 'diedin', 'diedonyear', 'directed', 'haschild', 'wasbornin', 'wasbornonyear']	1	412	0.0024271844660194173
+[]['skos:preflabel']['actedin', 'diedonyear', 'ismarriedto', 'wasbornonyear']	1	111439	8.973519145003096e-06
+[]['skos:preflabel', 'wasbornonyear']['actedin', 'wasbornin', 'wasbornondate']	1	23802156	4.2013000839083656e-08
+[]['skos:preflabel']['diedonyear', 'iscitizenof', 'wasbornonyear']	1	130988	7.634287110269643e-06
+[]['skos:preflabel']['diedonyear', 'haschild', 'ismarriedto', 'ismarriedto-inv', 'wasbornonyear']	1	814	0.0012285012285012285
+[]['skos:preflabel']['ismarriedto-inv']	1	125230	7.985307035055497e-06
+context	nb sameas	all_pair	ratio
+['wasbornonyear']['skos:preflabel']['wasbornondate']	107	88942	0.0012030311888646533
+['wasbornonyear']['skos:preflabel']['wasbornin', 'wasbornondate']	40	379033	0.00010553170832091137
+['wasbornonyear']['skos:preflabel']['iscitizenof', 'wasbornondate']	22	9888	0.0022249190938511327
+['wasbornonyear']['skos:preflabel']['iscitizenof', 'wasbornin', 'wasbornondate']	14	35369	0.0003958268540247109
+['wasbornonyear']['skos:preflabel']['actedin', 'wasbornin', 'wasbornondate']	21	391447	5.364710931492641e-05
+['wasbornonyear']['skos:preflabel']['created', 'diedin', 'diedonyear', 'wasbornin', 'wasbornondate']	1	27	0.037037037037037035
+['wasbornonyear']['skos:preflabel']['diedonyear', 'wasbornondate']	5	5531	0.0009039956608208281
+['wasbornonyear']['skos:preflabel']['actedin', 'wasbornondate']	38	75832	0.0005011077117839434
+['wasbornonyear']['skos:preflabel']['actedin', 'iscitizenof', 'wasbornin', 'wasbornondate']	3	29167	0.00010285596736037303
+['wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedonyear', 'wasbornin', 'wasbornondate']	1	1951	0.0005125576627370579
+['wasbornonyear']['skos:preflabel']['actedin', 'haswonprize', 'iscitizenof', 'wasbornondate']	3	117	0.02564102564102564
+['wasbornonyear']['skos:preflabel']['haswonprize', 'wasbornin', 'wasbornondate']	1	4333	0.00023078698361412417
+['wasbornonyear']['skos:preflabel']['actedin', 'ismarriedto', 'ismarriedto-inv', 'wasbornondate']	2	1820	0.001098901098901099
+['wasbornonyear']['actedin', 'skos:preflabel']['wasbornondate']	4	5861	0.000682477392936359
+['wasbornonyear']['skos:preflabel']['diedondate', 'diedonyear', 'haswonprize', 'iscitizenof', 'wasbornin', 'wasbornondate']	1	15	0.06666666666666667
+['wasbornonyear']['skos:preflabel']['ismarriedto-inv', 'wasbornondate']	1	692	0.001445086705202312
+['wasbornonyear']['skos:preflabel']['actedin', 'diedonyear', 'wasbornondate']	2	5048	0.0003961965134706815
+['wasbornonyear']['skos:preflabel']['actedin', 'diedondate', 'diedonyear', 'wasbornin', 'wasbornondate']	1	6440	0.00015527950310559007
+['wasbornonyear']['skos:preflabel', 'wasbornondate']['iscitizenof']	1	3988	0.00025075225677031093
+['wasbornonyear']['actedin', 'skos:preflabel']['iscitizenof', 'wasbornondate']	1	545	0.001834862385321101
+['wasbornonyear']['skos:preflabel']['haswonprize', 'iscitizenof', 'wasbornondate']	2	132	0.015151515151515152
+['wasbornonyear']['skos:preflabel']['created', 'wasbornondate']	2	2041	0.0009799118079372856
+['wasbornonyear']['skos:preflabel']['actedin', 'iscitizenof', 'wasbornondate']	5	6624	0.0007548309178743961
+['wasbornonyear']['skos:preflabel']['ismarriedto', 'ismarriedto-inv', 'wasbornondate']	1	511	0.0019569471624266144
+['wasbornonyear']['skos:preflabel']['diedonyear', 'wasbornin', 'wasbornondate']	1	12389	8.071676487206392e-05
+['wasbornonyear']['skos:preflabel']['diedin', 'diedonyear', 'wasbornin', 'wasbornondate']	4	2156	0.0018552875695732839
+['wasbornonyear']['skos:preflabel']['actedin', 'created', 'wasbornin', 'wasbornondate']	1	20722	4.825789016504198e-05
+['wasbornonyear']['skos:preflabel']['actedin', 'created', 'wasbornondate']	1	8430	0.00011862396204033214
+['wasbornonyear']['skos:preflabel']['directed', 'iscitizenof', 'wasbornin', 'wasbornondate']	1	701	0.0014265335235378032
+['wasbornonyear']['actedin', 'skos:preflabel']['wasbornin', 'wasbornondate']	1	31751	3.149507102138515e-05
+['wasbornonyear']['skos:preflabel']['ismarriedto', 'wasbornin', 'wasbornondate']	1	15711	6.364967220418815e-05
+['wasbornonyear']['actedin', 'skos:preflabel']['diedondate', 'diedonyear', 'wasbornin', 'wasbornondate']	1	882	0.0011337868480725624
+['wasbornonyear']['skos:preflabel']['actedin', 'iscitizenof', 'ismarriedto-inv', 'wasbornondate']	1	340	0.0029411764705882353
+['wasbornonyear']['actedin', 'created', 'directed', 'skos:preflabel']['iscitizenof', 'wasbornondate']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'wasbornondate']	42	176	0.23863636363636365
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedondate', 'wasbornin', 'wasbornondate']	19	494	0.038461538461538464
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedondate', 'wasbornondate']	23	177	0.12994350282485875
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'wasbornin', 'wasbornondate']	2	76	0.02631578947368421
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedondate', 'haschild', 'wasbornin', 'wasbornondate']	1	14	0.07142857142857142
+['diedonyear', 'wasbornonyear']['diedondate', 'skos:preflabel']['actedin', 'wasbornin', 'wasbornondate']	1	7	0.14285714285714285
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedin', 'diedondate', 'wasbornin', 'wasbornondate']	19	359	0.052924791086350974
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedin', 'diedondate', 'wasbornondate']	4	45	0.08888888888888889
+['diedonyear', 'wasbornonyear']['actedin', 'skos:preflabel']['diedondate', 'wasbornondate']	1	13	0.07692307692307693
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'iscitizenof', 'wasbornondate']	8	69	0.11594202898550725
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedondate', 'wasbornin', 'wasbornondate']	8	146	0.0547945205479452
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'haschild', 'wasbornin', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['actedin', 'skos:preflabel']['diedin', 'diedondate', 'wasbornin', 'wasbornondate']	5	52	0.09615384615384616
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedondate', 'iscitizenof', 'wasbornin', 'wasbornondate']	1	160	0.00625
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'created', 'diedondate', 'wasbornondate']	1	12	0.08333333333333333
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'ismarriedto', 'ismarriedto-inv', 'wasbornin', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'haswonprize', 'iscitizenof', 'wasbornondate']	3	5	0.6
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedin', 'diedondate', 'iscitizenof', 'wasbornin', 'wasbornondate']	1	167	0.005988023952095809
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedondate', 'iscitizenof', 'wasbornondate']	1	2	0.5
+['diedonyear', 'wasbornonyear']['created', 'skos:preflabel']['diedondate', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'ismarriedto', 'ismarriedto-inv', 'wasbornondate']	1	4	0.25
+['diedonyear', 'wasbornonyear']['skos:preflabel']['created', 'diedin', 'diedondate', 'wasbornin', 'wasbornondate']	2	9	0.2222222222222222
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'haswonprize', 'ismarriedto', 'ismarriedto-inv', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedondate', 'iscitizenof', 'wasbornondate']	2	16	0.125
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'diedin', 'diedondate', 'wasbornondate']	2	19	0.10526315789473684
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'haschild', 'ismarriedto', 'ismarriedto-inv', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['created', 'diedondate', 'haswonprize', 'iscitizenof', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['created', 'diedin', 'diedondate', 'directed', 'wasbornin', 'wasbornondate']	1	1	1.0
+['diedonyear', 'wasbornonyear']['skos:preflabel']['diedondate', 'directed', 'wasbornondate']	1	3	0.3333333333333333
+['diedonyear', 'wasbornonyear']['skos:preflabel']['created', 'diedondate', 'wasbornondate']	1	17	0.058823529411764705
+['diedonyear', 'wasbornonyear']['skos:preflabel']['actedin', 'created', 'diedondate', 'iscitizenof', 'wasbornondate']	1	4	0.25
+context	nb sameas	all_pair	ratio
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['wasbornin']	31	655	0.04732824427480916
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin']	6	120	0.05
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['diedonyear', 'wasbornin']	3	4	0.75
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'iscitizenof', 'wasbornin']	2	56	0.03571428571428571
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'influences', 'wasbornin']	1	1	1.0
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'wasbornin']	49	809	0.06056860321384425
+['wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate']['actedin', 'ismarriedto', 'ismarriedto-inv']	1	1	1.0
+['wasbornondate', 'wasbornonyear']['created', 'skos:preflabel']['actedin']	1	2	0.5
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'created', 'wasbornin']	1	64	0.015625
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'haswonprize', 'wasbornin']	1	63	0.015873015873015872
+['wasbornondate', 'wasbornonyear']['skos:preflabel'][]	12	123	0.0975609756097561
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['created', 'diedin', 'diedonyear', 'wasbornin']	1	1	1.0
+['wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate', 'wasbornonyear']['wasbornin']	1	18	0.05555555555555555
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['iscitizenof', 'wasbornin']	1	52	0.019230769230769232
+['wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate']['wasbornin']	1	23	0.043478260869565216
+['wasbornondate', 'wasbornonyear']['actedin', 'skos:preflabel'][]	1	26	0.038461538461538464
+['wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin'][]	1	359	0.002785515320334262
+['wasbornondate', 'wasbornonyear']['actedin', 'skos:preflabel']['wasbornin']	1	194	0.005154639175257732
+['wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate']['actedin', 'wasbornin']	2	11	0.18181818181818182
+['wasbornondate', 'wasbornonyear']['skos:preflabel']['diedin', 'diedonyear', 'wasbornin']	1	2	0.5
+context	nb sameas	all_pair	ratio
+['actedin']['skos:preflabel']['wasbornonyear']	9	13	0.6923076923076923
+['actedin']['actedin', 'skos:preflabel']['diedonyear', 'wasbornonyear']	11	18	0.6111111111111112
+['actedin']['actedin']['skos:preflabel']	2	3	0.6666666666666666
+['actedin']['actedin', 'skos:preflabel']['haswonprize', 'ismarriedto', 'wasbornin', 'wasbornonyear']	1	3	0.3333333333333333
+['actedin']['actedin', 'skos:preflabel']['wasbornin', 'wasbornonyear']	6	18	0.3333333333333333
+['actedin']['actedin', 'skos:preflabel'][]	5	11	0.45454545454545453
+['actedin']['actedin', 'skos:preflabel']['wasbornonyear']	20	29	0.6896551724137931
+['actedin']['skos:preflabel']['diedonyear', 'wasbornonyear']	7	10	0.7
+['actedin']['skos:preflabel'][]	9	11	0.8181818181818182
+['actedin']['actedin', 'skos:preflabel']['diedin', 'diedonyear', 'wasbornin', 'wasbornonyear']	2	5	0.4
+['actedin']['actedin', 'skos:preflabel']['iscitizenof', 'wasbornonyear']	2	8	0.25
+['actedin']['skos:preflabel']['diedin', 'diedonyear', 'wasbornonyear']	1	1	1.0
+['actedin']['actedin', 'skos:preflabel']['directed', 'wasbornin', 'wasbornondate', 'wasbornonyear']	1	8	0.125
+['actedin']['actedin', 'skos:preflabel']['created', 'diedin', 'diedonyear', 'wasbornonyear']	1	1	1.0
+['actedin']['skos:preflabel']['wasbornin', 'wasbornonyear']	3	6	0.5
+['actedin']['skos:preflabel']['ismarriedto', 'ismarriedto-inv', 'wasbornin', 'wasbornonyear']	1	1	1.0
+['actedin']['actedin']['influences', 'skos:preflabel', 'wasbornin', 'wasbornondate', 'wasbornonyear']	1	1	1.0
+['actedin']['skos:preflabel']['iscitizenof', 'wasbornonyear']	1	2	0.5
+['actedin']['actedin', 'skos:preflabel']['ismarriedto', 'wasbornondate', 'wasbornonyear']	1	5	0.2
+['actedin']['skos:preflabel']['wasbornin']	1	3	0.3333333333333333
+['actedin']['actedin', 'skos:preflabel']['created', 'directed', 'wasbornin', 'wasbornonyear']	1	2	0.5
+['actedin']['skos:preflabel']['diedonyear', 'directed', 'wasbornonyear']	1	1	1.0
+['actedin']['skos:preflabel']['ismarriedto', 'ismarriedto-inv', 'wasbornonyear']	1	1	1.0
+['actedin'][]['skos:preflabel', 'wasbornonyear']	1	1	1.0
+['actedin']['actedin', 'skos:preflabel']['diedonyear', 'iscitizenof', 'wasbornonyear']	1	1	1.0
+['actedin']['skos:preflabel']['diedonyear', 'haswonprize', 'wasbornonyear']	1	1	1.0
+['actedin']['actedin', 'skos:preflabel']['iscitizenof', 'wasbornin', 'wasbornonyear']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['actedin', 'wasbornonyear']['skos:preflabel']['wasbornin', 'wasbornondate']	4	5	0.8
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['wasbornondate']	19	20	0.95
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['wasbornin', 'wasbornondate']	15	25	0.6
+['actedin', 'wasbornonyear']['skos:preflabel']['wasbornondate']	11	11	1.0
+['actedin', 'wasbornonyear']['skos:preflabel']['iscitizenof', 'wasbornondate']	4	4	1.0
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['iscitizenof', 'wasbornondate']	3	3	1.0
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['iscitizenof', 'ismarriedto-inv', 'wasbornondate']	1	1	1.0
+['actedin', 'wasbornonyear']['skos:preflabel']['iscitizenof', 'wasbornin', 'wasbornondate']	2	2	1.0
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['haswonprize', 'wasbornin', 'wasbornondate']	1	1	1.0
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['diedondate', 'diedonyear', 'wasbornin', 'wasbornondate']	1	2	0.5
+['actedin', 'wasbornonyear']['actedin', 'skos:preflabel']['iscitizenof', 'wasbornin', 'wasbornondate']	3	5	0.6
+['actedin', 'wasbornonyear']['skos:preflabel', 'wasbornin']['wasbornondate']	1	1	1.0
+['actedin', 'wasbornonyear']['skos:preflabel']['directed', 'iscitizenof', 'wasbornin', 'wasbornondate']	1	1	1.0
+['actedin', 'wasbornonyear']['skos:preflabel']['haswonprize', 'wasbornondate']	1	1	1.0
+['actedin', 'wasbornonyear']['skos:preflabel']['diedonyear', 'wasbornondate']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['actedin']	17	22	0.7727272727272727
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin'][]	22	25	0.88
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel'][]	10	11	0.9090909090909091
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel']['haswonprize']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate', 'wasbornonyear'][]	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin']	10	15	0.6666666666666666
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['iscitizenof']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['actedin', 'created']	3	3	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['actedin', 'skos:preflabel', 'wasbornin'][]	2	2	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['wasbornin']['actedin', 'ismarriedto', 'skos:preflabel']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'haswonprize']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['actedin', 'skos:preflabel', 'wasbornin']['created']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel']['ismarriedto', 'ismarriedto-inv']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['haswonprize', 'ismarriedto']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['actedin', 'directed']	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel']['actedin', 'created']	1	2	0.5
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornondate'][]	1	1	1.0
+['wasbornin', 'wasbornondate', 'wasbornonyear']['skos:preflabel', 'wasbornin']['actedin', 'haswonprize']	1	1	1.0

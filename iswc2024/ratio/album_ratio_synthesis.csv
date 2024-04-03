@@ -1,0 +1,10 @@
+85072
+137178
+context	nb same as	nb all pair	nb same as \ nb all pair
+['created-inv', 'skos:preflabel']	11481	12225	0.9391411042944785
+['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	9235	9530	0.9690451206715635
+['skos:preflabel']	9164	12335	0.7429266315362789
+['created-inv']	8405	671662	0.012513734586741546
+['created-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	7056	7316	0.9644614543466375
+['wascreatedondate', 'wascreatedonyear']	6953	766876	0.009066654843807864
+[]	6807	11457657156	5.941005135099017e-07

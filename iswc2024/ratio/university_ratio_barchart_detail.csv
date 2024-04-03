@@ -1,0 +1,242 @@
+context	nb sameas	all_pair	ratio
+[]['skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedonyear']	166	10276836	1.615283147459004e-05
+[]['skos:preflabel']['islocatedin', 'wascreatedonyear']	379	23820314	1.5910789421163802e-05
+[][]['graduatedfrom-inv', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	284	7624933	3.7246228917683605e-05
+[][]['islocatedin', 'skos:preflabel', 'wascreatedonyear']	26	426991	6.0891213163743496e-05
+[]['skos:preflabel']['graduatedfrom-inv', 'islocatedin', 'wascreatedonyear']	13	7029332	1.849393370522263e-06
+[][]['graduatedfrom-inv', 'skos:preflabel', 'wascreatedonyear']	64	9680587	6.611169343346638e-06
+[]['skos:preflabel']['islocatedin']	89	15030914	5.921130278571217e-06
+[][]['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	102	2263960	4.50537995370943e-05
+[]['skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'owns', 'wascreatedonyear']	1	814357	1.2279626748465354e-06
+[]['graduatedfrom-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	73	2134729	3.4196378088272566e-05
+[]['skos:preflabel']['wascreatedonyear']	39	1523068	2.560621062224405e-05
+[][]['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	11	179289	6.135345726731701e-05
+[]['graduatedfrom-inv']['islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	4	423791	9.438614788893581e-06
+[][]['graduatedfrom-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	23	501268	4.588363909126455e-05
+[]['graduatedfrom-inv']['skos:preflabel', 'wascreatedonyear']	9	604465	1.488919954008917e-05
+[][]['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	11	266260	4.131300232855104e-05
+[]['graduatedfrom-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	5	371210	1.346946472347189e-05
+[]['skos:preflabel']['hasmotto', 'wascreatedonyear']	8	462340	1.7303283298005796e-05
+[]['skos:preflabel']['hasmotto', 'islocatedin']	22	6347074	3.466164093880109e-06
+[][]['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	22	608528	3.6152814660952333e-05
+[][]['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	2	225948	8.851594172110397e-06
+[][]['graduatedfrom-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	5	483054	1.0350809640330066e-05
+[][]['graduatedfrom-inv', 'skos:preflabel']	10	6331431	1.5794217768463402e-06
+[]['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	2017865	1.982293166292096e-06
+[]['graduatedfrom-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	9	219164	4.106513843514446e-05
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	5	221479	2.257550377236668e-05
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	284991	3.508882736647824e-06
+[][]['graduatedfrom-inv', 'owns', 'skos:preflabel', 'wascreatedonyear']	2	701643	2.8504524380632316e-06
+[][]['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	5	71346	7.008101365178146e-05
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	17	1063799	1.5980462474584015e-05
+[][]['graduatedfrom-inv', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	8	698891	1.1446706281809323e-05
+[][]['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	2	181228	1.1035822279118017e-05
+[]['skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	1100679	2.7255902947180785e-06
+[][]['islocatedin', 'skos:preflabel']	6	279256	2.1485661901624316e-05
+[]['hasmotto', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	202752	4.932133838383839e-06
+[][]['playsfor-inv', 'skos:preflabel']	2	504328	3.965673133357656e-06
+[][]['graduatedfrom-inv', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	5	1001485	4.992586009775483e-06
+[]['skos:preflabel', 'wascreatedonyear']['islocatedin', 'wascreatedondate']	4	1268169	3.154153744493045e-06
+[]['graduatedfrom-inv']['created', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	70541	1.417615287563261e-05
+[][]['islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	9	238759	3.769491411842067e-05
+[]['skos:preflabel']['hasmotto']	4	302034	1.324354211777482e-05
+[]['skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'wascreatedonyear']	7	5067530	1.381343573693693e-06
+[]['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'wascreatedonyear']	1	8192630	1.2206092549034924e-07
+[][]['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	3	359524	8.34436644007076e-06
+[][]['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']	7	1496335	4.678096816555116e-06
+[]['skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'wascreatedonyear']	1	97997	1.0204394012061594e-05
+[]['graduatedfrom-inv', 'owns']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	4767	0.00020977554017201594
+[]['islocatedin', 'skos:preflabel']['wascreatedonyear']	9	16233526	5.544082043543713e-07
+[][]['graduatedfrom-inv', 'hasmotto', 'skos:preflabel', 'wascreatedonyear']	1	104884	9.534342702414095e-06
+[]['graduatedfrom-inv']['islocatedin', 'skos:preflabel']	4	65977	6.062718826257635e-05
+[][]['playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	2	771133	2.5935863203883116e-06
+[]['skos:preflabel'][]	13	996131	1.305049235492119e-05
+[]['graduatedfrom-inv']['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	336676	2.9702146871175847e-06
+[][]['islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	15519	0.00012887428313680004
+[]['islocatedin', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	2	11617103	1.721599610505304e-07
+[]['owns']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	16683	5.9941257567583765e-05
+[][]['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	4	100856	3.966050606805743e-05
+[]['hasmotto', 'islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	1	1823808	5.483033301751062e-07
+[]['graduatedfrom-inv', 'owns']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	23655	4.227436060029592e-05
+[][]['owns', 'skos:preflabel', 'wascreatedonyear']	1	305904	3.268999424656101e-06
+[][]['hasmotto', 'skos:preflabel', 'wascreatedonyear']	1	25492	3.922799309587322e-05
+[][]['owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	60706	1.6472836292952922e-05
+[][]['hasmotto', 'islocatedin', 'skos:preflabel']	1	56685	1.764135132751169e-05
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	82098	1.2180564690979073e-05
+[][]['hasmotto', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	17957	5.5688589408030296e-05
+[][]['created', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	34759	5.7539054633332376e-05
+[]['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	1	8226949	1.2155174415205443e-07
+[]['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	30758	3.2511866831393456e-05
+[]['skos:preflabel']['graduatedfrom-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	697994	1.4326770717226796e-06
+[][]['created', 'graduatedfrom-inv', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	1	15888	6.294058408862034e-05
+[][]['created', 'graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	43632	2.291895856252292e-05
+[]['skos:preflabel']['islocatedin', 'owns', 'wascreatedonyear']	1	145771	6.8600750492210385e-06
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	179338	1.1152126152851041e-05
+[]['skos:preflabel']['graduatedfrom-inv', 'islocatedin']	3	3823797	7.845604774521241e-07
+[][]['hasmotto', 'skos:preflabel']	1	16672	5.998080614203455e-05
+[]['playsfor-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	10771	9.284189026088571e-05
+[][]['graduatedfrom-inv', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	492852	2.029006679489989e-06
+[]['graduatedfrom-inv']['islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	52951	1.8885384600857397e-05
+[][]['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	8388	0.00011921793037672866
+[]['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedonyear']	1	303247	3.2976418563085536e-06
+[]['graduatedfrom-inv']['islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	264490	3.7808612801996294e-06
+[][]['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	39321	5.086340632232141e-05
+[]['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	1	418936	2.3869994462161286e-06
+context	nb sameas	all_pair	ratio
+['graduatedfrom-inv'][]['skos:preflabel', 'wascreatedonyear']	15	17	0.8823529411764706
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	138	442	0.31221719457013575
+['graduatedfrom-inv'][]['islocatedin', 'skos:preflabel', 'wascreatedonyear']	97	105	0.9238095238095239
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	283	701	0.4037089871611983
+['graduatedfrom-inv']['graduatedfrom-inv']['skos:preflabel', 'wascreatedonyear']	28	80	0.35
+['graduatedfrom-inv'][]['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	30	31	0.967741935483871
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	25	69	0.36231884057971014
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	12	94	0.1276595744680851
+['graduatedfrom-inv']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedonyear']	7	97	0.07216494845360824
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	2	39	0.05128205128205128
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	5	134	0.03731343283582089
+['graduatedfrom-inv'][]['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	5	6	0.8333333333333334
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	28	243	0.11522633744855967
+['graduatedfrom-inv'][]['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	6	6	1.0
+['graduatedfrom-inv']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	7	0.14285714285714285
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	31	78	0.3974358974358974
+['graduatedfrom-inv'][]['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	20	0.05
+['graduatedfrom-inv'][]['playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	28	178	0.15730337078651685
+['graduatedfrom-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	3	5	0.6
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	5	77	0.06493506493506493
+['graduatedfrom-inv']['graduatedfrom-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	12	63	0.19047619047619047
+['graduatedfrom-inv'][]['islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	6	8	0.75
+['graduatedfrom-inv']['graduatedfrom-inv', 'skos:preflabel']['islocatedin']	1	10	0.1
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	68	0.029411764705882353
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'skos:preflabel', 'wascreatedonyear']	5	7	0.7142857142857143
+['graduatedfrom-inv'][]['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	7	7	1.0
+['graduatedfrom-inv'][]['created', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	2	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['owns', 'skos:preflabel', 'wascreatedonyear']	2	24	0.08333333333333333
+['graduatedfrom-inv']['graduatedfrom-inv', 'playsfor-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	6	0.3333333333333333
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	10	0.2
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'skos:preflabel']	3	4	0.75
+['graduatedfrom-inv']['graduatedfrom-inv', 'owns']['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	28	0.03571428571428571
+['graduatedfrom-inv']['skos:preflabel']['islocatedin']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'skos:preflabel']	1	2	0.5
+['graduatedfrom-inv'][]['hasmotto', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	80	0.0125
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	3	228	0.013157894736842105
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	5	77	0.06493506493506493
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	11	0.09090909090909091
+['graduatedfrom-inv']['graduatedfrom-inv', 'owns']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	26	0.038461538461538464
+['graduatedfrom-inv'][]['islocatedin', 'skos:preflabel']	1	2	0.5
+['graduatedfrom-inv']['graduatedfrom-inv', 'owns']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	41	0.04878048780487805
+['graduatedfrom-inv']['graduatedfrom-inv']['islocatedin', 'owns', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	4	24	0.16666666666666666
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	3	71	0.04225352112676056
+['graduatedfrom-inv']['graduatedfrom-inv']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	4	0.5
+['graduatedfrom-inv']['graduatedfrom-inv', 'owns']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['graduatedfrom-inv']['graduatedfrom-inv']['created', 'skos:preflabel']	1	2	0.5
+['graduatedfrom-inv']['playsfor-inv']['islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv', 'owns']['hasmotto', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	11	0.09090909090909091
+['graduatedfrom-inv'][]['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv'][]['hasmotto', 'islocatedin', 'owns', 'skos:preflabel', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv']['graduatedfrom-inv']['skos:preflabel']	1	19	0.05263157894736842
+['graduatedfrom-inv']['skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	1	194	0.005154639175257732
+['graduatedfrom-inv']['graduatedfrom-inv']['hasmotto', 'islocatedin', 'playsfor-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	11	0.09090909090909091
+['graduatedfrom-inv']['skos:preflabel']['wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv']['created', 'graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'islocatedin', 'wascreatedonyear']	1	2	0.5
+context	nb sameas	all_pair	ratio
+['islocatedin']['skos:preflabel']['wascreatedonyear']	122	5204	0.023443504996156803
+['islocatedin']['skos:preflabel']['hasmotto', 'wascreatedonyear']	41	3000	0.013666666666666667
+['islocatedin']['islocatedin', 'skos:preflabel']['wascreatedonyear']	143	1364259	0.00010481880639966458
+['islocatedin']['islocatedin', 'owns', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	1	413	0.002421307506053269
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	36	713553	5.045175340864659e-05
+['islocatedin']['hasmotto', 'islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	8	126518	6.323210926508481e-05
+['islocatedin']['hasmotto', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	11	153821	7.151169216166844e-05
+['islocatedin']['islocatedin']['hasmotto', 'skos:preflabel', 'wascreatedonyear']	2	16149	0.00012384667781286768
+['islocatedin']['skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	14	2617	0.005349636988918609
+['islocatedin']['islocatedin', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	2	59762	3.346608212576554e-05
+['islocatedin'][]['skos:preflabel', 'wascreatedonyear']	13	172	0.0755813953488372
+['islocatedin']['islocatedin', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	57	875890	6.50766648780098e-05
+['islocatedin']['islocatedin']['skos:preflabel', 'wascreatedonyear']	10	29489	0.00033910949845705177
+['islocatedin']['skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'wascreatedonyear']	7	1952	0.003586065573770492
+['islocatedin']['islocatedin', 'skos:preflabel'][]	20	88602	0.00022572853885916797
+['islocatedin']['hasmotto', 'skos:preflabel']['wascreatedonyear']	6	633	0.009478672985781991
+['islocatedin']['skos:preflabel'][]	7	463	0.01511879049676026
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	3	130749	2.2944726154693344e-05
+['islocatedin']['graduatedfrom-inv', 'skos:preflabel']['owns', 'wascreatedonyear']	2	29	0.06896551724137931
+['islocatedin']['islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	54883	1.8220578321155913e-05
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	10	114681	8.719840252526574e-05
+['islocatedin']['skos:preflabel', 'wascreatedonyear']['graduatedfrom-inv', 'wascreatedondate']	1	121	0.008264462809917356
+['islocatedin']['islocatedin', 'skos:preflabel']['hasmotto']	5	37660	0.0001327668613913967
+['islocatedin']['skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	63	0.015873015873015872
+['islocatedin'][]['skos:preflabel']	1	14	0.07142857142857142
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'owns', 'wascreatedonyear']	2	88083	2.270585697580691e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'wascreatedonyear']	12	637231	1.8831475555960083e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'playsfor-inv', 'wascreatedonyear']	1	132403	7.552698956972274e-06
+['islocatedin']['hasmotto', 'skos:preflabel']['graduatedfrom-inv', 'playsfor-inv', 'wascreatedonyear']	1	27	0.037037037037037035
+['islocatedin']['islocatedin']['graduatedfrom-inv', 'skos:preflabel', 'wascreatedonyear']	1	14280	7.002801120448179e-05
+['islocatedin']['hasmotto', 'skos:preflabel']['graduatedfrom-inv', 'wascreatedonyear']	3	417	0.007194244604316547
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'wascreatedondate', 'wascreatedonyear']	1	41651	2.4009027394300258e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'owns', 'wascreatedonyear']	3	218431	1.3734314268579094e-05
+['islocatedin']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'owns', 'wascreatedonyear']	1	54	0.018518518518518517
+['islocatedin']['graduatedfrom-inv', 'skos:preflabel']['wascreatedonyear']	3	431	0.0069605568445475635
+['islocatedin']['skos:preflabel']['graduatedfrom-inv', 'hasmotto', 'owns', 'wascreatedonyear']	1	134	0.007462686567164179
+['islocatedin']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	3	397	0.007556675062972292
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'playsfor-inv', 'wascreatedonyear']	1	59724	1.674368762976358e-05
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	39722	2.5174966013795882e-05
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel'][]	1	1455	0.0006872852233676976
+['islocatedin']['hasmotto', 'islocatedin', 'skos:preflabel']['graduatedfrom-inv', 'owns', 'wascreatedonyear']	1	48310	2.0699648105982198e-05
+['islocatedin'][]['hasmotto', 'skos:preflabel', 'wascreatedonyear']	1	56	0.017857142857142856
+['islocatedin']['skos:preflabel']['graduatedfrom-inv', 'playsfor-inv', 'wascreatedonyear']	1	74	0.013513513513513514
+['islocatedin']['graduatedfrom-inv', 'skos:preflabel']['playsfor-inv']	1	1	1.0
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['owns', 'playsfor-inv', 'wascreatedonyear']	1	38508	2.5968629895086736e-05
+['islocatedin']['islocatedin']['skos:preflabel']	1	1624	0.0006157635467980296
+['islocatedin']['skos:preflabel']['hasmotto', 'owns', 'wascreatedonyear']	1	19	0.05263157894736842
+['islocatedin']['skos:preflabel']['hasmotto']	1	170	0.0058823529411764705
+['islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'owns', 'playsfor-inv', 'wascreatedonyear']	1	98162	1.0187241498746969e-05
+['islocatedin']['islocatedin', 'skos:preflabel']['graduatedfrom-inv']	1	26994	3.704526931910795e-05
+['islocatedin']['graduatedfrom-inv', 'islocatedin']['skos:preflabel', 'wascreatedonyear']	1	2003	0.0004992511233150275
+context	nb sameas	all_pair	ratio
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['owns', 'wascreatedonyear']	3	64	0.046875
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel']['wascreatedonyear']	23	35	0.6571428571428571
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	21	270	0.07777777777777778
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	31	161	0.19254658385093168
+['graduatedfrom-inv', 'islocatedin']['islocatedin', 'skos:preflabel']['owns', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'skos:preflabel']['created', 'owns', 'playsfor-inv', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	4	100	0.04
+['graduatedfrom-inv', 'islocatedin']['islocatedin', 'skos:preflabel']['wascreatedonyear']	7	7	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'skos:preflabel']['wascreatedonyear']	2	5	0.4
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	8	18	0.4444444444444444
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'playsfor-inv', 'wascreatedonyear']	1	61	0.01639344262295082
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin']['hasmotto', 'skos:preflabel', 'wascreatedonyear']	1	4	0.25
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['created', 'playsfor-inv', 'wascreatedonyear']	1	3	0.3333333333333333
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['created', 'hasmotto', 'wascreatedonyear']	1	30	0.03333333333333333
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin']['owns', 'playsfor-inv', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin']['skos:preflabel', 'wascreatedonyear']	2	3	0.6666666666666666
+['graduatedfrom-inv', 'islocatedin']['skos:preflabel']['wascreatedonyear']	7	7	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'owns', 'wascreatedonyear']	2	7	0.2857142857142857
+['graduatedfrom-inv', 'islocatedin']['islocatedin', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['created', 'graduatedfrom-inv', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv', 'islocatedin']['skos:preflabel']['hasmotto', 'wascreatedonyear']	2	2	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'owns', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	1	38	0.02631578947368421
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'owns', 'playsfor-inv', 'wascreatedonyear']	1	211	0.004739336492890996
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'owns', 'skos:preflabel']['wascreatedonyear']	1	35	0.02857142857142857
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	27	0.037037037037037035
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	28	0.03571428571428571
+['graduatedfrom-inv', 'islocatedin']['islocatedin', 'skos:preflabel']['hasmotto', 'wascreatedonyear']	4	7	0.5714285714285714
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['created', 'wascreatedonyear']	1	21	0.047619047619047616
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel']['owns', 'wascreatedonyear']	3	89	0.033707865168539325
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['hasmotto', 'owns', 'wascreatedonyear']	3	165	0.01818181818181818
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv']['skos:preflabel', 'wascreatedonyear']	3	3	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel', 'wascreatedonyear']['hasmotto', 'wascreatedondate']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin']['owns', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	3	0.3333333333333333
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'skos:preflabel']['playsfor-inv', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel']['created', 'wascreatedonyear']	1	22	0.045454545454545456
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	11	0.09090909090909091
+['graduatedfrom-inv', 'islocatedin']['skos:preflabel']['hasmotto', 'playsfor-inv', 'wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'skos:preflabel']['created', 'wascreatedonyear']	1	2	0.5
+['graduatedfrom-inv', 'islocatedin']['graduatedfrom-inv', 'hasmotto', 'skos:preflabel']['created', 'wascreatedonyear']	1	4	0.25
+['graduatedfrom-inv', 'islocatedin']['hasmotto', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['graduatedfrom-inv', 'islocatedin']['hasmotto', 'skos:preflabel']['wascreatedonyear']	1	1	1.0

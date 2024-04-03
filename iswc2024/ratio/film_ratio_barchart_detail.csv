@@ -1,0 +1,805 @@
+context	nb sameas	all_pair	ratio
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	221	2066	0.10696999031945789
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'edited-inv']	1	12	0.08333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	50	760	0.06578947368421052
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']	85	196	0.4336734693877551
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv']	291	1737	0.16753022452504318
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	241	2651	0.09090909090909091
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	99	1312	0.07545731707317073
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv']	33	609	0.054187192118226604
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin']	67	909	0.0737073707370737
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	10	324	0.030864197530864196
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'islocatedin', 'wrotemusicfor-inv']	15	226	0.06637168141592921
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']	44	430	0.10232558139534884
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	11	88	0.125
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'islocatedin']	18	146	0.1232876712328767
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['islocatedin']	11	144	0.0763888888888889
+['wascreatedondate', 'wascreatedonyear'][]['islocatedin', 'skos:preflabel']	4	12	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'islocatedin']	18	243	0.07407407407407407
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	10	0.1
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	5	210	0.023809523809523808
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv']	88	418	0.21052631578947367
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv']	64	414	0.15458937198067632
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'islocatedin']	18	100	0.18
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'islocatedin']	11	132	0.08333333333333333
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'directed-inv', 'skos:preflabel']	6	17	0.35294117647058826
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'wrotemusicfor-inv']	1	3	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv', 'islocatedin']	5	70	0.07142857142857142
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv']	22	106	0.20754716981132076
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	9	235	0.03829787234042553
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin']	22	203	0.10837438423645321
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv']	56	437	0.12814645308924486
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin']	2	74	0.02702702702702703
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'edited-inv', 'wrotemusicfor-inv']	1	1	1.0
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'wrotemusicfor-inv']	21	183	0.11475409836065574
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'wrotemusicfor-inv']	23	185	0.12432432432432433
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'wrotemusicfor-inv']	26	397	0.0654911838790932
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv']	25	113	0.22123893805309736
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']	1	6	0.16666666666666666
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	3	229	0.013100436681222707
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']	12	40	0.3
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv']	10	44	0.22727272727272727
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel'][]	14	242	0.05785123966942149
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv']	1	26	0.038461538461538464
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	3	113	0.02654867256637168
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'islocatedin']	3	44	0.06818181818181818
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv', 'islocatedin', 'wrotemusicfor-inv']	2	17	0.11764705882352941
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'islocatedin', 'wrotemusicfor-inv']	11	115	0.09565217391304348
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	18	314	0.05732484076433121
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'directed-inv', 'skos:preflabel']	6	12	0.5
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv']	6	115	0.05217391304347826
+['wascreatedondate', 'wascreatedonyear'][]['directed-inv', 'skos:preflabel']	3	5	0.6
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	14	122	0.11475409836065574
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	6	72	0.08333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	7	0.14285714285714285
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'skos:preflabel']	10	21	0.47619047619047616
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'islocatedin']	24	294	0.08163265306122448
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['created-inv']	1	18	0.05555555555555555
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	8	0.125
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['wrotemusicfor-inv']	3	29	0.10344827586206896
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv']	1	23	0.043478260869565216
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']	2	8	0.25
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']	3	5	0.6
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	3	61	0.04918032786885246
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	1	26	0.038461538461538464
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']	3	9	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	11	0.09090909090909091
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'directed-inv', 'islocatedin']	3	85	0.03529411764705882
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']	2	7	0.2857142857142857
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv']	18	228	0.07894736842105263
+['wascreatedondate', 'wascreatedonyear']['created-inv', 'skos:preflabel']['actedin-inv', 'directed-inv']	1	28	0.03571428571428571
+['wascreatedondate', 'wascreatedonyear']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv']	1	16	0.0625
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']	3	28	0.10714285714285714
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']	1	1	1.0
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['directed-inv']	1	3	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'directed-inv', 'islocatedin']	1	61	0.01639344262295082
+['wascreatedondate', 'wascreatedonyear']['created-inv', 'skos:preflabel']['directed-inv', 'islocatedin']	1	6	0.16666666666666666
+['wascreatedondate', 'wascreatedonyear'][]['skos:preflabel', 'wrotemusicfor-inv']	1	1	1.0
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['created-inv', 'directed-inv']	1	69	0.014492753623188406
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear'][]	2	54	0.037037037037037035
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv', 'wrotemusicfor-inv']	5	33	0.15151515151515152
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'wrotemusicfor-inv']	1	25	0.04
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'skos:preflabel']	3	7	0.42857142857142855
+['wascreatedondate', 'wascreatedonyear']['created-inv', 'skos:preflabel'][]	1	2	0.5
+['wascreatedondate', 'wascreatedonyear']['directed-inv', 'skos:preflabel']['created-inv']	1	15	0.06666666666666667
+['wascreatedondate', 'wascreatedonyear']['wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	4	0.25
+['wascreatedondate', 'wascreatedonyear'][]['actedin-inv', 'skos:preflabel']	3	11	0.2727272727272727
+['wascreatedondate', 'wascreatedonyear']['created-inv', 'skos:preflabel']['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']	1	52	0.019230769230769232
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv']	3	25	0.12
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin']	4	128	0.03125
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'islocatedin']	5	23	0.21739130434782608
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'edited-inv']	2	45	0.044444444444444446
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv', 'edited-inv', 'wrotemusicfor-inv']	1	14	0.07142857142857142
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']	1	27	0.037037037037037035
+['wascreatedondate', 'wascreatedonyear']['wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']	1	3	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv']	1	22	0.045454545454545456
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['created-inv', 'directed-inv']	3	14	0.21428571428571427
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['islocatedin', 'wrotemusicfor-inv']	1	14	0.07142857142857142
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv']	7	127	0.05511811023622047
+['wascreatedondate', 'wascreatedonyear']['wascreatedondate', 'wascreatedonyear']['created-inv', 'directed-inv', 'skos:preflabel']	1	2	0.5
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	4	261	0.01532567049808429
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv']	6	75	0.08
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin']	1	2	0.5
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'wrotemusicfor-inv']	1	12	0.08333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	1	76	0.013157894736842105
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'edited-inv', 'wrotemusicfor-inv']	1	29	0.034482758620689655
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['created-inv', 'directed-inv', 'wrotemusicfor-inv']	2	30	0.06666666666666667
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	85	0.011764705882352941
+['wascreatedondate', 'wascreatedonyear'][]['islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']	1	9	0.1111111111111111
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate']['islocatedin']	1	3	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']	1	3	0.3333333333333333
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['directed-inv', 'edited-inv']	1	19	0.05263157894736842
+['wascreatedondate', 'wascreatedonyear']['wascreatedondate', 'wascreatedonyear']['actedin-inv', 'directed-inv', 'skos:preflabel']	1	5	0.2
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	1	1.0
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	1	1.0
+['wascreatedondate', 'wascreatedonyear'][]['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1	2	0.5
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin']	2	41	0.04878048780487805
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	51	0.0196078431372549
+['wascreatedondate', 'wascreatedonyear']['created-inv', 'skos:preflabel']['directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	2	0.5
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['created-inv', 'directed-inv', 'islocatedin']	1	10	0.1
+['wascreatedondate', 'wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'islocatedin']	1	26	0.038461538461538464
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	10	93	0.10752688172043011
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	16	220	0.07272727272727272
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	37	40	0.925
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	141	146	0.9657534246575342
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'wascreatedondate']	3	4	0.75
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	43	109	0.3944954128440367
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	23	24	0.9583333333333334
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	61	191	0.3193717277486911
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	47	48	0.9791666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	11	43	0.2558139534883721
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	21	22	0.9545454545454546
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	122	132	0.9242424242424242
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	14	58	0.2413793103448276
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	38	41	0.926829268292683
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	33	40	0.825
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	247	253	0.9762845849802372
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	43	195	0.2205128205128205
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	14	0.2857142857142857
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	69	72	0.9583333333333334
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	8	18	0.4444444444444444
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	7	30	0.23333333333333334
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	12	14	0.8571428571428571
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	1	26	0.038461538461538464
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	6	0.16666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	14	14	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedonyear']	17	17	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	69	0.057971014492753624
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	11	58	0.1896551724137931
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	14	55	0.2545454545454545
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	7	7	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear']	9	9	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	15	15	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	4	27	0.14814814814814814
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	22	35	0.6285714285714286
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	6	50	0.12
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'islocatedin', 'wascreatedondate']	1	19	0.05263157894736842
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	25	26	0.9615384615384616
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	8	43	0.18604651162790697
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	9	9	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	20	20	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	6	0.16666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	19	25	0.76
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	38	0.07894736842105263
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	9	0.2222222222222222
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	8	0.25
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedonyear']	12	42	0.2857142857142857
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	20	0.05
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	2	9	0.2222222222222222
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	16	19	0.8421052631578947
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	3	16	0.1875
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	2	4	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	4	8	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	4	22	0.18181818181818182
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	16	18	0.8888888888888888
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	11	16	0.6875
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	21	0.047619047619047616
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	8	33	0.24242424242424243
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	31	0.03225806451612903
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['wascreatedonyear']	4	20	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	8	85	0.09411764705882353
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	16	0.125
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'islocatedin', 'wascreatedondate']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	6	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	9	47	0.19148936170212766
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv']['edited-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	2	6	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	9	12	0.75
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['wascreatedonyear']	6	8	0.75
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	19	0.05263157894736842
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['edited-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv'][]['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['wascreatedondate']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	2	10	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'wascreatedondate']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv']['skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['islocatedin', 'wascreatedondate']	2	3	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	23	0.043478260869565216
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel'][]	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	13	0.07692307692307693
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['edited-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	8	0.125
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['edited-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	13	0.07692307692307693
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['wascreatedonyear']	28	32	0.875
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	7	13	0.5384615384615384
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	119	353	0.3371104815864023
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	5	0.8
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	3	63	0.047619047619047616
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	7	11	0.6363636363636364
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	6	7	0.8571428571428571
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedonyear']	10	99	0.10101010101010101
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	11	75	0.14666666666666667
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	162	630	0.2571428571428571
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	27	76	0.35526315789473684
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	74	509	0.14538310412573674
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	18	27	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	12	58	0.20689655172413793
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	21	69	0.30434782608695654
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	24	35	0.6857142857142857
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	28	52	0.5384615384615384
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	35	486	0.0720164609053498
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	24	121	0.19834710743801653
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	7	9	0.7777777777777778
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	2	28	0.07142857142857142
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	28	982	0.028513238289205704
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	7	0.5714285714285714
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	12	22	0.5454545454545454
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	5	5	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'wascreatedondate']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	60	0.016666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	20	29	0.6896551724137931
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	6	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	5	0.6
+['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	9	324	0.027777777777777776
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	5	6	0.8333333333333334
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	5	85	0.058823529411764705
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	33	45	0.7333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	10	12	0.8333333333333334
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	9	17	0.5294117647058824
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv']['edited-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	16	751	0.02130492676431425
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	20	23	0.8695652173913043
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	5	23	0.21739130434782608
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wascreatedonyear']['wascreatedondate', 'wrotemusicfor-inv']	1	10	0.1
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	5	5	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	5	50	0.1
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	1	26	0.038461538461538464
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	9	0.5555555555555556
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	5	39	0.1282051282051282
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedonyear']	13	61	0.21311475409836064
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	34	344	0.09883720930232558
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	25	113	0.22123893805309736
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	3	31	0.0967741935483871
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	4	0.25
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	11	83	0.13253012048192772
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	20	0.1
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	6	12	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	2	29	0.06896551724137931
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin']	1	4	0.25
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	36	89	0.4044943820224719
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedonyear']	25	30	0.8333333333333334
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	20	0.05
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	3	71	0.04225352112676056
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	4	78	0.05128205128205128
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	4	63	0.06349206349206349
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	18	21	0.8571428571428571
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	7	0.7142857142857143
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	132	0.015151515151515152
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	8	0.25
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	6	66	0.09090909090909091
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'islocatedin', 'wascreatedondate']	2	15	0.13333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	6	165	0.03636363636363636
+['actedin-inv', 'created-inv', 'directed-inv'][]['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	6	8	0.75
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	6	50	0.12
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv']['edited-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	66	0.07575757575757576
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	11	223	0.04932735426008968
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	8	0.125
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	6	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	12	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	6	159	0.03773584905660377
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	3	54	0.05555555555555555
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	9	0.2222222222222222
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	6	408	0.014705882352941176
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	8	0.125
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv']['edited-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	3	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	3	9	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	4	5	0.8
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	6	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv']['edited-inv', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	69	0.043478260869565216
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel', 'wascreatedonyear']['wascreatedondate']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	2	6	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	32	0.0625
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['islocatedin']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	3	6	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	13	0.07692307692307693
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	2	8	0.25
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'wascreatedondate']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	2	11	0.18181818181818182
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	7	0.14285714285714285
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	73	0.0136986301369863
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	16	0.125
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	2	92	0.021739130434782608
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	77	0.012987012987012988
+['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	29	0.034482758620689655
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	2	9	0.2222222222222222
+['actedin-inv', 'created-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	4	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	6	0.16666666666666666
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	97	0.010309278350515464
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'islocatedin', 'wascreatedondate']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	17	0.058823529411764705
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wascreatedonyear']['wascreatedondate', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel'][]	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv']['edited-inv', 'skos:preflabel', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	2	14	0.14285714285714285
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	50	0.02
+['actedin-inv', 'created-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	57	0.017543859649122806
+['actedin-inv', 'created-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv'][]['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	44	171	0.2573099415204678
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	208	212	0.9811320754716981
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	21	191	0.1099476439790576
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	6	7	0.8571428571428571
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'wascreatedonyear']	19	21	0.9047619047619048
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	125	131	0.9541984732824428
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	19	19	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	20	20	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	18	18	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	63	67	0.9402985074626866
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	133	0.03759398496240601
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	19	20	0.95
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	6	8	0.75
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	14	16	0.875
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedonyear']	7	8	0.875
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	69	0.07246376811594203
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['wascreatedonyear']	1	9	0.1111111111111111
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	9	12	0.75
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	2	23	0.08695652173913043
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	23	25	0.92
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	9	9	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['wascreatedonyear']	11	13	0.8461538461538461
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	43	0.046511627906976744
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	10	12	0.8333333333333334
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	18	170	0.10588235294117647
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	5	5	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	8	10	0.8
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	23	0.043478260869565216
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	23	24	0.9583333333333334
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	9	10	0.9
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'edited-inv', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	9	158	0.056962025316455694
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wascreatedonyear']['created-inv', 'islocatedin', 'wascreatedondate']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv']['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	25	0.08
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	5	0.8
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	7	8	0.875
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	6	145	0.041379310344827586
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	9	11	0.8181818181818182
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	10	0.1
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	5	42	0.11904761904761904
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	2	6	0.3333333333333333
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	3	57	0.05263157894736842
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	4	20	0.2
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	4	72	0.05555555555555555
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	3	72	0.041666666666666664
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	37	0.05405405405405406
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	2	7	0.2857142857142857
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	8	10	0.8
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	5	46	0.10869565217391304
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	7	19	0.3684210526315789
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	3	53	0.05660377358490566
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	41	0.07317073170731707
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedonyear']	3	4	0.75
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	239	0.008368200836820083
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	11	0.45454545454545453
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	10	0.1
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	47	0.02127659574468085
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	7	0.14285714285714285
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	12	0.08333333333333333
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	4	0.25
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	73	0.0136986301369863
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedonyear']	1	4	0.25
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	32	0.0625
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	8	0.125
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	14	36	0.3888888888888889
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	10	24	0.4166666666666667
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	365	377	0.9681697612732095
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	8	36	0.2222222222222222
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	85	187	0.45454545454545453
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	5	7	0.7142857142857143
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	68	71	0.9577464788732394
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	7	14	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	57	60	0.95
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	18	21	0.8571428571428571
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	13	13	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	11	11	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	6	6	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	5	5	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	41	41	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	7	35	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	16	16	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	9	9	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	3	15	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['islocatedin', 'wascreatedondate']	3	3	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	6	6	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['islocatedin']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	5	7	0.7142857142857143
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	8	20	0.4
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	1	6	0.16666666666666666
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	4	150	0.02666666666666667
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	13	0.38461538461538464
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedonyear']	1	4	0.25
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['islocatedin']	2	4	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	7	188	0.03723404255319149
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	11	29	0.3793103448275862
+['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	9	688	0.01308139534883721
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	10	2062	0.004849660523763337
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	94	7843	0.01198520974117047
+['actedin-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	57	1109	0.05139765554553652
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	13	28	0.4642857142857143
+['actedin-inv', 'directed-inv']['skos:preflabel']['wascreatedonyear']	27	36	0.75
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	2	37	0.05405405405405406
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	368	0.008152173913043478
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	21	316	0.06645569620253164
+['actedin-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	13	56	0.23214285714285715
+['actedin-inv', 'directed-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	15	37	0.40540540540540543
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	10	444	0.02252252252252252
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	10	67	0.14925373134328357
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	19	347	0.05475504322766571
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	53	1348	0.039317507418397624
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	774	0.00516795865633075
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	3	126	0.023809523809523808
+['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['created-inv', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	19	294	0.06462585034013606
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	27	1836	0.014705882352941176
+['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'wascreatedonyear']	21	42	0.5
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	2	5	0.4
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	15	86	0.1744186046511628
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	17	0.11764705882352941
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedonyear']	4	38	0.10526315789473684
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	3	20	0.15
+['actedin-inv', 'directed-inv']['directed-inv']['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	19	0.21052631578947367
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	424	0.009433962264150943
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	6	0.6666666666666666
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	47	0.02127659574468085
+['actedin-inv', 'directed-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	5	7	0.7142857142857143
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	13	31	0.41935483870967744
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	11	0.18181818181818182
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	4	38	0.10526315789473684
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	7	147	0.047619047619047616
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	1579	0.001266624445851805
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	5	167	0.029940119760479042
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	39	0.02564102564102564
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	15	25	0.6
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	2	2	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	21	0.047619047619047616
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	16	53	0.3018867924528302
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	7	0.14285714285714285
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	9	138	0.06521739130434782
+['actedin-inv', 'directed-inv']['skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	3	4	0.75
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	41	0.024390243902439025
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	5	10	0.5
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	5	5	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	21	0.047619047619047616
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	5	8	0.625
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	3	151	0.019867549668874173
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	5	13	0.38461538461538464
+['actedin-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	968	0.002066115702479339
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	4	415	0.00963855421686747
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	6	7	0.8571428571428571
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	94	0.010638297872340425
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel', 'wrotemusicfor-inv']['wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedondate', 'wascreatedonyear']	2	4	0.5
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'islocatedin']	1	1	1.0
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	6	0.5
+['actedin-inv', 'directed-inv']['actedin-inv']['skos:preflabel', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedonyear']['wascreatedondate', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	703	0.002844950213371266
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	16	0.125
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1183	0.0008453085376162299
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	187	0.0106951871657754
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	2	40	0.05
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	110	0.00909090909090909
+['actedin-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	29	0.06896551724137931
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	31	0.03225806451612903
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	1	342	0.0029239766081871343
+['actedin-inv', 'directed-inv']['actedin-inv']['islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv']['directed-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv']['directed-inv']['created-inv', 'skos:preflabel', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	233	0.004291845493562232
+['actedin-inv', 'directed-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	4	0.25
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedonyear']	1	184	0.005434782608695652
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	15	0.06666666666666667
+['actedin-inv', 'directed-inv']['actedin-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	19	0.05263157894736842
+['actedin-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	2	1.0
+['actedin-inv', 'directed-inv'][]['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	3	96	0.03125
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	4	98	0.04081632653061224
+['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	1602	0.0018726591760299626
+['actedin-inv', 'directed-inv'][]['created-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	57	0.03508771929824561
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	161	0.006211180124223602
+['actedin-inv', 'directed-inv'][]['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	2	1.0
+['actedin-inv', 'directed-inv']['islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv']['skos:preflabel']['created-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	2	8	0.25
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv']['actedin-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	5	0.4
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	2	2	1.0
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	57	0.017543859649122806
+['actedin-inv', 'directed-inv'][]['skos:preflabel', 'wascreatedonyear', 'wrotemusicfor-inv']	1	1	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	2	55	0.03636363636363636
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear']	1	20	0.05
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedonyear', 'wrotemusicfor-inv']	1	83	0.012048192771084338
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv']['created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['edited-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	728	0.0013736263736263737
+['actedin-inv', 'directed-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	7	0.14285714285714285
+['actedin-inv', 'directed-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'islocatedin', 'wascreatedonyear', 'wrotemusicfor-inv']	1	26	0.038461538461538464
+['actedin-inv', 'directed-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'edited-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	1	48	0.020833333333333332
+['actedin-inv', 'directed-inv']['created-inv', 'skos:preflabel']['wascreatedonyear']	1	7	0.14285714285714285
+context	nb sameas	all_pair	ratio
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	327	334	0.9790419161676647
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	14	32	0.4375
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	48	49	0.9795918367346939
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	73	186	0.3924731182795699
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'edited-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	12	12	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	5	5	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	6	6	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	54	54	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	54	0.018518518518518517
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	9	9	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	17	17	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	6	34	0.17647058823529413
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	8	8	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	7	17	0.4117647058823529
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	22	124	0.1774193548387097
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	3	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	5	6	0.8333333333333334
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	2	4	0.5
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	4	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	9	10	0.9
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	10	0.3
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	8	0.125
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'edited-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	9	0.1111111111111111
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	5	5	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	5	0.2
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv']['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv']['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel', 'wrotemusicfor-inv']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	3	27	0.1111111111111111
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['created-inv', 'wascreatedonyear']	2	5	0.4
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['edited-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	3	0.3333333333333333
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	16	0.0625
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	4	0.25
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	4	0.75
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'edited-inv', 'skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel']['islocatedin', 'wascreatedonyear']	2	2	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['created-inv', 'directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	2	3	0.6666666666666666
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	1	2	0.5
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'directed-inv', 'edited-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'edited-inv', 'skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['skos:preflabel', 'wrotemusicfor-inv']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['actedin-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']['directed-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	1	1.0
+context	nb sameas	all_pair	ratio
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate', 'wrotemusicfor-inv']	60	798810	7.511172869643595e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	54	681225	7.926896399867886e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	22	394804	5.572385284850204e-05
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'wascreatedondate']	21	106652	0.00019690207403517984
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	33	297249	0.00011101803538447564
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate']	80	519808	0.00015390297956168432
+['wascreatedonyear']['wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wascreatedondate', 'wrotemusicfor-inv']	1	1244	0.0008038585209003215
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wascreatedondate']	22	263250	8.357075023741691e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'wascreatedondate']	7	50550	0.00013847675568743817
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	5	31962	0.00015643576747387524
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate']	13	20422	0.0006365684066203114
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	1762	0.0005675368898978433
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wascreatedondate']	4	45816	8.730574471800244e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate']	7	62728	0.00011159290906772096
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate']	15	127254	0.00011787448724598048
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'wascreatedondate']	24	136298	0.00017608475546229585
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'wascreatedondate', 'wrotemusicfor-inv']	10	122167	8.1855165470217e-05
+['wascreatedonyear']['skos:preflabel']['directed-inv', 'wascreatedondate']	10	35060	0.0002852253280091272
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'skos:preflabel', 'wascreatedondate']	1	2377	0.00042069835927639884
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'wascreatedondate', 'wrotemusicfor-inv']	7	80253	8.722415361419511e-05
+['wascreatedonyear']['skos:preflabel']['created-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	9855	0.00010147133434804668
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'islocatedin', 'wascreatedondate']	8	49809	0.00016061354373707562
+['wascreatedonyear']['skos:preflabel']['wascreatedondate']	4	53817	7.432595648215248e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	4	81714	4.895122010916122e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	3	389617	7.69986935888321e-06
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	5	41020	0.00012189176011701609
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate']	1	3781	0.0002644802962179318
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate']	3	25981	0.00011546899657441977
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'wascreatedondate', 'wrotemusicfor-inv']	2	57304	3.490157755130532e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	3	16118	0.00018612731108077926
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'islocatedin', 'wascreatedondate']	3	32119	9.340265886235561e-05
+['wascreatedonyear']['skos:preflabel']['islocatedin', 'wascreatedondate']	1	33601	2.976101901729115e-05
+['wascreatedonyear']['created-inv', 'skos:preflabel', 'wascreatedondate']['actedin-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wrotemusicfor-inv']	1	16607	6.021557174685374e-05
+['wascreatedonyear']['islocatedin', 'skos:preflabel']['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	28482	3.510989396812022e-05
+['wascreatedonyear'][]['actedin-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate']	4	1439	0.002779708130646282
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['created-inv', 'directed-inv', 'wascreatedondate']	2	7168	0.00027901785714285713
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'wascreatedondate']	3	97565	3.074873161482089e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'directed-inv', 'wascreatedondate']	1	5734	0.00017439832577607255
+['wascreatedonyear']['skos:preflabel']['created-inv', 'wascreatedondate']	1	14644	6.828735318219065e-05
+['wascreatedonyear']['skos:preflabel']['directed-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	5744	0.00017409470752089137
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'islocatedin', 'wascreatedondate']	5	87336	5.725016030044884e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'wascreatedondate', 'wrotemusicfor-inv']	4	48849	8.188499252799443e-05
+['wascreatedonyear']['directed-inv', 'skos:preflabel']['actedin-inv', 'created-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	15390	6.49772579597141e-05
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wascreatedondate']	2	1067	0.0018744142455482662
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	2	54562	3.665554781716213e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate']	2	40600	4.926108374384237e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	93921	1.0647246089798873e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	1	43694	2.2886437497139195e-05
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	7	79609	8.792975668580186e-05
+['wascreatedonyear'][]['skos:preflabel', 'wascreatedondate']	2	2804	0.0007132667617689016
+['wascreatedonyear']['skos:preflabel']['directed-inv', 'edited-inv', 'wascreatedondate', 'wrotemusicfor-inv']	1	2052	0.0004873294346978557
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'wrotemusicfor-inv']	1	32944	3.0354541039339484e-05
+['wascreatedonyear']['wascreatedonyear']['created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate', 'wrotemusicfor-inv']	1	402	0.0024875621890547263
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	3	476690	6.2933982252617005e-06
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'islocatedin', 'wascreatedondate']	3	65281	4.595517838268409e-05
+['wascreatedonyear']['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate']	1	7350	0.00013605442176870748
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'wascreatedondate']	1	7539	0.00013264358668258389
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['wascreatedondate']	2	8790	0.00022753128555176336
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	1	56898	1.7575310204225104e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wrotemusicfor-inv']	1	254550	3.928501276762915e-06
+['wascreatedonyear']['wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate']	1	889	0.0011248593925759281
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wascreatedondate', 'wrotemusicfor-inv']	2	4098	0.0004880429477794046
+['wascreatedonyear'][]['actedin-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate']	1	1066	0.0009380863039399625
+['wascreatedonyear']['skos:preflabel', 'wascreatedondate']['created-inv', 'islocatedin', 'wrotemusicfor-inv']	1	2608	0.0003834355828220859
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate']	1	4714	0.00021213406873143826
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	60001	1.666638889351844e-05
+['wascreatedonyear']['skos:preflabel']['directed-inv', 'edited-inv', 'wascreatedondate']	1	3064	0.00032637075718015666
+['wascreatedonyear']['skos:preflabel']['created-inv', 'directed-inv', 'edited-inv', 'wascreatedondate']	2	41388	4.832318546438581e-05
+['wascreatedonyear']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	5672	0.0001763046544428773
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'created-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	30082	3.3242470580413535e-05
+['wascreatedonyear']['skos:preflabel', 'wascreatedonyear']['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	67081	1.4907350814686721e-05
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wrotemusicfor-inv']	2	3674	0.0005443658138268917
+['wascreatedonyear']['skos:preflabel']['actedin-inv', 'edited-inv', 'islocatedin', 'wascreatedondate', 'wrotemusicfor-inv']	1	2214	0.00045167118337850043
+['wascreatedonyear'][]['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate', 'wrotemusicfor-inv']	1	7271	0.00013753266400770182

@@ -1,0 +1,5 @@
+epsilon	initial sameas ratio	nb sameas > 0.8	all sameas	nb sameas > 0.8/all sameas 	 mean ratio
+['skos:preflabel']	0.7429266315362789	6598	9164	0.7199912701876909	0.8611454189640632
+['created-inv']	0.012513734586741546	0	8405	0.0	zero division
+['wascreatedondate', 'wascreatedonyear']	0.009066654843807864	0	6953	0.0	zero division
+[]	5.941005135099017e-07	0	6807	0.0	zero division

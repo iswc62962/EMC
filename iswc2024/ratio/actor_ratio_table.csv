@@ -1,0 +1,18 @@
+context	nb same as	nb all pair	nb same as \ nb all pair
+[]	927	624321822	1.484811146005401e-06
+['skos:preflabel', 'wasbornondate', 'wasbornonyear']	816	818	0.9975550122249389
+['skos:preflabel', 'wasbornin', 'wasbornondate', 'wasbornonyear']	580	580	1.0
+['wasbornonyear']	292	4095849	7.12916906848861e-05
+['skos:preflabel']	234	265	0.8830188679245283
+['actedin', 'skos:preflabel', 'wasbornin', 'wasbornondate', 'wasbornonyear']	210	210	1.0
+['actedin', 'skos:preflabel', 'wasbornondate', 'wasbornonyear']	184	184	1.0
+['diedonyear', 'wasbornonyear']	157	6575	0.02387832699619772
+['diedondate', 'diedonyear', 'skos:preflabel', 'wasbornondate', 'wasbornonyear']	156	156	1.0
+['skos:preflabel', 'wasbornonyear']	148	165	0.896969696969697
+['wasbornondate', 'wasbornonyear']	118	6525	0.018084291187739465
+['actedin']	92	9405	0.009782030834662414
+['wasbornin', 'wasbornondate', 'wasbornonyear']	76	107	0.7102803738317757
+['actedin', 'wasbornonyear']	68	340	0.2
+['actedin', 'diedondate', 'diedonyear', 'skos:preflabel', 'wasbornondate', 'wasbornonyear']	53	53	1.0
+['skos:preflabel', 'wasbornin']	50	51	0.9803921568627451
+['diedin', 'diedondate', 'diedonyear', 'skos:preflabel', 'wasbornin', 'wasbornondate', 'wasbornonyear']	47	47	1.0

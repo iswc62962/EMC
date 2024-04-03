@@ -1,0 +1,10 @@
+epsilon	initial sameas ratio	nb sameas > 0.8	all sameas	nb sameas > 0.8/all sameas	mean ratio
+[]	1.090550232738262e-06	0	10981	0.0	zero division
+['wascreatedondate', 'wascreatedonyear']	0.03727182015613077	5	1905	0.0026246719160104987	1.0
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	0.36793422404933196	1002	1432	0.6997206703910615	0.9820875247589792
+['actedin-inv', 'created-inv', 'directed-inv']	0.0923147581139008	177	1206	0.14676616915422885	0.9699760610766045
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']	0.16086175942549372	698	896	0.7790178571428571	0.9601610594174323
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	0.5661157024793388	650	822	0.7907542579075426	0.9921487969790972
+['actedin-inv', 'directed-inv']	0.015126754661638382	54	722	0.07479224376731301	0.9955357142857143
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	0.49780701754385964	535	681	0.7856093979441997	0.9903739714448654
+['wascreatedonyear']	2.94851994456086e-05	0	508	0.0	zero division

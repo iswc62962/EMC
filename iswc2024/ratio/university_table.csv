@@ -1,0 +1,10 @@
+context	nb same as	nb all pair	nb same as \ nb all pair
+['skos:preflabel']	1864	1960	0.9510204081632653
+[]	1546	234179609	6.601770353113879e-06
+['islocatedin', 'skos:preflabel']	1355	1484	0.9130727762803235
+['graduatedfrom-inv']	841	12790	0.06575449569976544
+['islocatedin']	570	7471094	7.629404743134004e-05
+['graduatedfrom-inv', 'islocatedin', 'skos:preflabel']	487	492	0.9898373983739838
+['hasmotto', 'islocatedin', 'skos:preflabel']	268	273	0.9816849816849816
+['graduatedfrom-inv', 'islocatedin']	151	5080	0.0297244094488189
+['graduatedfrom-inv', 'hasmotto', 'islocatedin', 'skos:preflabel']	149	150	0.9933333333333333

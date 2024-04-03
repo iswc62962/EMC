@@ -1,0 +1,119 @@
+context	nb sameas	all_pair	ratio
+[]['skos:preflabel']['created-inv', 'hasisbn', 'islocatedin', 'wascreatedonyear']	42	15524223	2.7054494128305167e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages', 'wascreatedonyear']	516	126494351	4.079233546168398e-06
+[]['skos:preflabel']['hasisbn', 'haspages']	5	9602082	5.207204020961288e-07
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages', 'islocatedin', 'wascreatedonyear']	159	83753685	1.8984239320335576e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'wascreatedonyear']	129	33145575	3.891922224912375e-06
+[]['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedonyear']	82	18521227	4.427352464283279e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages', 'wascreatedondate', 'wascreatedonyear']	118	28581839	4.128495720656743e-06
+[]['skos:preflabel']['created-inv', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	1829102	2.1868654673167488e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	42	15025372	2.795271890772488e-06
+[]['skos:preflabel']['hasisbn', 'haspages', 'wascreatedonyear']	69	8584349	8.03788382788258e-06
+[]['skos:preflabel']['created-inv', 'haspages', 'wascreatedonyear']	133	24669411	5.391292074220986e-06
+[]['skos:preflabel']['created-inv', 'wascreatedonyear']	171	36998483	4.621811115877373e-06
+[]['skos:preflabel']['wascreatedonyear']	34	4655874	7.302603120273444e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'wascreatedondate', 'wascreatedonyear']	10	4357635	2.2948227651007943e-06
+[][]['created-inv', 'hasisbn', 'haspages', 'skos:preflabel', 'wascreatedonyear']	32	2192301	1.4596535785916258e-05
+[]['skos:preflabel']['islocatedin', 'wascreatedonyear']	30	2898752	1.034928134590334e-05
+[]['skos:preflabel']['hasisbn', 'wascreatedonyear']	25	2762912	9.048424271203716e-06
+[][]['created-inv', 'hasisbn', 'haspages', 'wascreatedonyear']	1	306	0.0032679738562091504
+[]['skos:preflabel']['hasisbn', 'haspages', 'wascreatedondate', 'wascreatedonyear']	13	2440031	5.327801163181943e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'islocatedin']	11	17357474	6.337327654934123e-07
+[]['skos:preflabel']['created-inv', 'hasisbn', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	2	1944309	1.0286430809094646e-06
+[]['skos:preflabel']['created-inv', 'haspages', 'islocatedin', 'wascreatedonyear']	31	13148287	2.357721580005061e-06
+[]['skos:preflabel']['created-inv']	10	40867010	2.4469614977949204e-07
+[][]['created-inv', 'haspages', 'skos:preflabel', 'wascreatedonyear']	9	520459	1.7292428414149818e-05
+[]['wascreatedonyear']['created-inv', 'hasisbn', 'islocatedin', 'skos:preflabel', 'wascreatedondate']	1	26405	3.787161522438932e-05
+[][]['created-inv', 'skos:preflabel', 'wascreatedonyear']	16	1086001	1.4732951442954472e-05
+[]['skos:preflabel']['created-inv', 'haspages', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	2079170	1.442883458303073e-06
+[][]['created-inv', 'islocatedin', 'skos:preflabel']	2	289598	6.9061250423000155e-06
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages']	12	138794275	8.64588975301755e-08
+[]['skos:preflabel']['created-inv', 'hasisbn', 'haspages', 'islocatedin']	20	93022136	2.1500258820115677e-07
+[]['skos:preflabel', 'wascreatedonyear']['created-inv', 'hasisbn', 'haspages', 'wascreatedondate']	6	16199401	3.703840654355059e-07
+[]['skos:preflabel']['islocatedin']	14	3276755	4.272519611627968e-06
+[]['skos:preflabel']['hasisbn', 'haspages', 'islocatedin', 'wascreatedonyear']	12	2511313	4.778376888902339e-06
+[]['skos:preflabel'][]	5	5267765	9.491691447891089e-07
+[]['skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	47281	2.1150144878492418e-05
+[]['skos:preflabel']['created-inv', 'haspages', 'wascreatedondate', 'wascreatedonyear']	10	3468213	2.8833292534224396e-06
+[]['created-inv', 'skos:preflabel']['wascreatedonyear']	2	8561705	2.335983311735221e-07
+[][]['created-inv', 'haspages', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	137153	1.4582254854068085e-05
+[]['skos:preflabel']['created-inv', 'haspages', 'islocatedin']	9	12621751	7.130547893077593e-07
+[][]['created-inv', 'hasisbn', 'skos:preflabel', 'wascreatedonyear']	9	624044	1.442205998294992e-05
+[][]['created-inv', 'hasisbn', 'haspages', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	3	534925	5.608262840585129e-06
+[]['skos:preflabel']['hasisbn']	4	3124804	1.2800802866355778e-06
+[]['skos:preflabel']['hasisbn', 'wascreatedondate', 'wascreatedonyear']	1	307088	3.2563955608815714e-06
+[]['skos:preflabel', 'wascreatedonyear']['created-inv', 'hasisbn', 'haspages', 'islocatedin', 'wascreatedondate']	2	7217955	2.7708679258875954e-07
+[][]['hasisbn', 'haspages', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	1	14457	6.917064397869545e-05
+[][]['created-inv', 'hasisbn', 'haspages', 'skos:preflabel']	2	2325421	8.600593182911826e-07
+[][]['created-inv', 'hasisbn', 'haspages', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	7	595770	1.1749500646222535e-05
+[]['skos:preflabel']['haspages', 'islocatedin', 'wascreatedonyear']	6	703471	8.529136240157731e-06
+[]['skos:preflabel']['haspages', 'wascreatedonyear']	4	1429306	2.798560979944113e-06
+[]['skos:preflabel']['created-inv', 'islocatedin']	11	20235962	5.435867096409847e-07
+[][]['hasisbn', 'skos:preflabel', 'wascreatedonyear']	7	133824	5.230750836920134e-05
+[]['skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedonyear']	8	576797	1.3869697657928179e-05
+[]['created-inv', 'skos:preflabel']['hasisbn', 'wascreatedonyear']	2	7872562	2.540469036636358e-07
+[]['skos:preflabel']['created-inv', 'wascreatedondate', 'wascreatedonyear']	4	3621226	1.1045982769371478e-06
+[][]['hasisbn', 'haspages', 'skos:preflabel', 'wascreatedonyear']	3	259407	1.1564838265736853e-05
+[]['skos:preflabel']['created-inv', 'hasisbn']	4	36883774	1.0844877208064446e-07
+[][]['created-inv', 'hasisbn', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	7	141616	4.9429443000790874e-05
+[][]['islocatedin', 'skos:preflabel']	2	45282	4.4167660439026546e-05
+[]['created-inv']['skos:preflabel', 'wascreatedonyear']	2	257807	7.757741256055887e-06
+[]['skos:preflabel']['created-inv', 'haspages']	1	24263963	4.121338299106374e-08
+[]['skos:preflabel']['hasisbn', 'haspages', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	3	661044	4.53827581825113e-06
+[]['skos:preflabel']['hasisbn', 'haspages', 'islocatedin']	4	2810675	1.4231456856449074e-06
+[]['skos:preflabel']['hasisbn', 'islocatedin']	2	650081	3.0765396927459807e-06
+[][]['created-inv', 'skos:preflabel']	4	1222963	3.270744903975018e-06
+[][]['created-inv', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	2	266583	7.5023538635246806e-06
+[][]['created-inv', 'hasisbn', 'skos:preflabel']	1	671994	1.488108524778495e-06
+[][]['created-inv', 'haspages', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	167370	5.9747864013861505e-06
+[][]['hasisbn', 'haspages', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	81350	1.2292562999385371e-05
+[]['haspages', 'skos:preflabel']['created-inv', 'wascreatedonyear']	1	1220467	8.193584914626942e-07
+[][]['hasisbn', 'haspages', 'skos:preflabel']	3	286880	1.045733407696598e-05
+[][]['haspages', 'skos:preflabel']	1	60376	1.6562872664634953e-05
+[]['created-inv', 'skos:preflabel']['hasisbn', 'haspages', 'wascreatedonyear']	1	41891105	2.3871416139536065e-08
+[][]['created-inv', 'hasisbn', 'haspages', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	96264	1.0388099393334996e-05
+[]['skos:preflabel']['haspages', 'islocatedin']	1	681558	1.4672265603220857e-06
+context	nb sameas	all_pair	ratio
+['created-inv', 'haspages']['skos:preflabel']['hasisbn', 'wascreatedondate', 'wascreatedonyear']	164	645	0.25426356589147286
+['created-inv', 'haspages']['skos:preflabel']['hasisbn', 'wascreatedonyear']	648	1440	0.45
+['created-inv', 'haspages']['skos:preflabel']['wascreatedonyear']	110	276	0.39855072463768115
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['hasisbn', 'wascreatedonyear']	16	34	0.47058823529411764
+['created-inv', 'haspages']['skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedonyear']	452	1100	0.4109090909090909
+['created-inv', 'haspages']['skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	112	874	0.12814645308924486
+['created-inv', 'haspages']['skos:preflabel']['islocatedin']	2	2	1.0
+['created-inv', 'haspages']['skos:preflabel']['hasisbn', 'islocatedin']	6	8	0.75
+['created-inv', 'haspages'][]['hasisbn', 'skos:preflabel', 'wascreatedonyear']	22	24	0.9166666666666666
+['created-inv', 'haspages']['skos:preflabel']['islocatedin', 'wascreatedonyear']	60	122	0.4918032786885246
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['hasisbn', 'wascreatedonyear']	24	132	0.18181818181818182
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['hasisbn', 'wascreatedondate', 'wascreatedonyear']	13	19	0.6842105263157895
+['created-inv', 'haspages']['skos:preflabel'][]	1	1	1.0
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	4	16	0.25
+['created-inv', 'haspages'][]['hasisbn', 'islocatedin', 'skos:preflabel', 'wascreatedonyear']	7	7	1.0
+['created-inv', 'haspages'][]['skos:preflabel', 'wascreatedonyear']	9	11	0.8181818181818182
+['created-inv', 'haspages'][]['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedondate', 'wascreatedonyear']	6	25	0.24
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['hasisbn', 'wascreatedondate', 'wascreatedonyear']	9	19	0.47368421052631576
+['created-inv', 'haspages']['skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	5	89	0.056179775280898875
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedonyear']	15	33	0.45454545454545453
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['hasisbn', 'islocatedin', 'wascreatedonyear']	10	67	0.14925373134328357
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['created-inv', 'haspages']['skos:preflabel', 'wascreatedonyear']['hasisbn', 'wascreatedondate']	7	66	0.10606060606060606
+['created-inv', 'haspages']['skos:preflabel']['wascreatedondate', 'wascreatedonyear']	6	67	0.08955223880597014
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['wascreatedonyear']	1	6	0.16666666666666666
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['hasisbn', 'islocatedin']	1	2	0.5
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['wascreatedonyear']	4	6	0.6666666666666666
+['created-inv', 'haspages'][]['hasisbn', 'islocatedin', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	2	2	1.0
+['created-inv', 'haspages'][]['hasisbn', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	3	4	0.75
+['created-inv', 'haspages']['haspages', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	1	1.0
+['created-inv', 'haspages']['hasisbn', 'skos:preflabel']['wascreatedonyear']	3	10	0.3
+['created-inv', 'haspages']['skos:preflabel', 'wascreatedonyear']['hasisbn', 'islocatedin', 'wascreatedondate']	3	17	0.17647058823529413
+['created-inv', 'haspages']['created-inv', 'skos:preflabel', 'wascreatedonyear']['hasisbn', 'islocatedin', 'wascreatedondate']	1	2	0.5
+['created-inv', 'haspages']['hasisbn', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	2	8	0.25
+['created-inv', 'haspages'][]['islocatedin', 'skos:preflabel', 'wascreatedonyear']	4	4	1.0
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedonyear']	1	5	0.2
+['created-inv', 'haspages']['hasisbn', 'skos:preflabel', 'wascreatedonyear']['wascreatedondate']	1	1	1.0
+['created-inv', 'haspages'][]['hasisbn', 'skos:preflabel']	1	1	1.0
+['created-inv', 'haspages']['skos:preflabel']['hasisbn']	1	5	0.2
+['created-inv', 'haspages']['created-inv', 'skos:preflabel']['islocatedin', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['created-inv', 'haspages']['created-inv']['hasisbn', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	1	1	1.0
+['created-inv', 'haspages']['created-inv', 'haspages', 'skos:preflabel', 'wascreatedonyear']['hasisbn', 'wascreatedondate']	1	5	0.2

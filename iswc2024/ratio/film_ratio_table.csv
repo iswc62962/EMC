@@ -1,0 +1,25 @@
+context	nb same as	nb all pair	nb same as \ nb all pair
+['skos:preflabel']	18812	21469	0.8762401602310308
+[]	10981	10069228973	1.090550232738262e-06
+['skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	3086	3127	0.9868883914294851
+['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel']	2081	2122	0.9806786050895382
+['wascreatedondate', 'wascreatedonyear']	1905	51111	0.03727182015613077
+['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1807	1841	0.9815317762085823
+['actedin-inv', 'created-inv', 'directed-inv', 'wrotemusicfor-inv']	1432	3892	0.36793422404933196
+['actedin-inv', 'directed-inv', 'skos:preflabel']	1405	1435	0.9790940766550522
+['actedin-inv', 'created-inv', 'directed-inv']	1206	13064	0.0923147581139008
+['actedin-inv', 'directed-inv', 'skos:preflabel', 'wrotemusicfor-inv']	1202	1222	0.983633387888707
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']	992	1002	0.9900199600798403
+['actedin-inv', 'directed-inv', 'wrotemusicfor-inv']	896	5570	0.16086175942549372
+['actedin-inv', 'created-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	822	1452	0.5661157024793388
+['skos:preflabel', 'wascreatedonyear']	803	819	0.9804639804639804
+['actedin-inv', 'directed-inv']	722	47730	0.015126754661638382
+['actedin-inv', 'skos:preflabel']	714	738	0.967479674796748
+['actedin-inv', 'directed-inv', 'edited-inv', 'wrotemusicfor-inv']	681	1368	0.49780701754385964
+['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	647	657	0.984779299847793
+['directed-inv', 'skos:preflabel']	588	600	0.98
+['actedin-inv', 'created-inv', 'directed-inv', 'wascreatedondate', 'wascreatedonyear', 'wrotemusicfor-inv']	556	586	0.9488054607508533
+['actedin-inv', 'directed-inv', 'edited-inv', 'skos:preflabel', 'wrotemusicfor-inv']	547	561	0.9750445632798574
+['wascreatedonyear']	508	17228983	2.94851994456086e-05
+['actedin-inv', 'created-inv', 'directed-inv', 'skos:preflabel', 'wascreatedondate', 'wascreatedonyear']	476	487	0.9774127310061602
+['created-inv', 'directed-inv', 'skos:preflabel']	452	465	0.9720430107526882

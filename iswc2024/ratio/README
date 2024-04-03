@@ -1,0 +1,24 @@
+Compute the ratios.
+Python scripts for section Experiment of the article.
+
+For each class 3 result are obtained:
+For each class one script for 3 results: CLASSNAME_ratio.py
+
+-- Result 1: specific/no-specific/weak-specific epsilon context: Table 1 of the article
+-the result file is: CLASSNAME_table.csv
+-the categroy specific/no-specific/weak-specific is based on the ratio: nb same as \ nb all pair (last column of the csv)
+-specific: ratio > 0.8
+-no-specific: ratio < 0.2
+-weal specific: 0.2 >= ratio > 0.8 
+ 
+-- Result 2: specific/no-specific/weak-specific EMCs: Table 2 of the article
+- the result file is: CLASSNAME_barchart_detail.csv
+- the category specific/no-specific is based on the nb same as \ nb all pair (last colum of the csv  
+-specific: ratio > 0.8
+-no-specific: ratio < 0.8
+
+-- Result3: owl:sameAs pair distribution: barcharts of the article.
+-- the result file is: CLASSNAME_barchart.scv 
+-- the column "nb sameas > 0.8/all sameas" give the proportion of owl:sameAs belonging to specfic EMCs.
+-- the figures are in /figures
+

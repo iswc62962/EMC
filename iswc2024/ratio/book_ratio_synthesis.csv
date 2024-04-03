@@ -1,0 +1,6 @@
+context	nb same as	nb all pair	nb same as \ nb all pair
+['created-inv', 'haspages', 'skos:preflabel']	3720	3831	0.971025841816758
+['skos:preflabel']	3133	3349	0.935503135264258
+[]	1909	1243650536	1.5349971271994049e-06
+['created-inv', 'skos:preflabel']	1829	1921	0.9521082769390942
+['created-inv', 'haspages']	1744	5312	0.32831325301204817
