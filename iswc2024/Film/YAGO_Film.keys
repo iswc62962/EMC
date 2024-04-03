@@ -1,0 +1,9 @@
+created-inv, skos:preflabel
+wascreatedondate, skos:preflabel
+wrotemusicfor-inv, skos:preflabel
+actedin-inv, islocatedin, skos:preflabel
+edited-inv, skos:preflabel
+wrotemusicfor-inv, wascreatedondate, islocatedin, edited-inv, created-inv
+directed-inv, skos:preflabel
+actedin-inv, wrotemusicfor-inv, wascreatedondate, islocatedin, created-inv
+actedin-inv, wascreatedonyear, skos:preflabel

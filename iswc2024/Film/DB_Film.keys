@@ -1,0 +1,14 @@
+actedin-inv, wascreatedonyear, islocatedin, skos:preflabel
+actedin-inv, wrotemusicfor-inv, wascreatedondate, edited-inv
+islocatedin, edited-inv, skos:preflabel
+wrotemusicfor-inv, wascreatedonyear, islocatedin, skos:preflabel
+wascreatedonyear, directed-inv, islocatedin, skos:preflabel
+actedin-inv, wascreatedondate, islocatedin, edited-inv
+wascreatedonyear, edited-inv, skos:preflabel
+wascreatedondate, islocatedin, edited-inv, created-inv
+wrotemusicfor-inv, wascreatedondate, islocatedin, edited-inv
+wascreatedondate, islocatedin, skos:preflabel
+wascreatedondate, edited-inv, skos:preflabel
+actedin-inv, wrotemusicfor-inv, directed-inv, islocatedin, created-inv, skos:preflabel
+wascreatedonyear, islocatedin, created-inv, skos:preflabel
+wrotemusicfor-inv, wascreatedondate, islocatedin, created-inv
