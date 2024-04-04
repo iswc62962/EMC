@@ -1,0 +1,14 @@
+haslatitude, wascreatedonyear
+islocatedin, skos:preflabel, wascreatedondate
+created-inv, wascreatedondate
+haslongitude, skos:preflabel
+haslatitude, wascreatedondate
+islocatedin, skos:preflabel, wascreatedonyear
+haslongitude, wascreatedonyear
+islocatedin, created-inv
+haslatitude, skos:preflabel
+haslatitude, created-inv
+haslongitude, wascreatedondate
+haslongitude, created-inv
+created-inv, wascreatedonyear
+skos:preflabel, created-inv

@@ -1,0 +1,5 @@
+islocatedin, wascreatedonyear, wascreatedondate
+islocatedin, skos:preflabel
+skos:preflabel, wascreatedonyear, wascreatedondate
+created-inv
+haslatitude, islocatedin, haslongitude

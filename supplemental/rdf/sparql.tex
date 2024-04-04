@@ -1,0 +1,121 @@
+% This is samplepaper.tex, a sample chapter demonstrating the
+% LLNCS macro package for Springer Computer Science proceedings;
+% Version 2.20 of 2017/10/04
+%
+\documentclass[runningheads]{llncs}
+%
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{amsmath}
+
+% Define settings for SPARQL code highlighting
+\lstdefinelanguage{SPARQL}{
+  morekeywords={PREFIX, SELECT, WHERE, FILTER, OPTIONAL, UNION},
+  sensitive=true,
+  morecomment=[l]{\#},
+  morestring=[b][\color{blue}]\",
+}
+\lstset{
+  language=SPARQL,
+  basicstyle=\ttfamily,
+  keywordstyle=\color{purple},
+  commentstyle=\color{gray},
+  stringstyle=\color{blue},
+  showstringspaces=false,
+  breaklines=true,
+  tabsize=2,
+}
+
+% Used for displaying a sample figure. If possible, figure files should
+% be included in EPS format.
+%
+% If you use the hyperref package, please uncomment the following line
+% to display URLs in blue roman font according to Springer's eBook style:
+% \renewcommand\UrlFont{\color{blue}\rmfamily}
+
+\newcommand{\todo}[1]{\textit{\textcolor{magenta}{Todo: #1}}}
+
+\begin{document}
+%
+\title{SPARQL Queries}
+%\title{Abstracting Entity Matching for Analysing and Explaining Identity and Difference Decision and Indecision}
+%
+%\titlerunning{Abbreviated paper title}
+% If the paper title is too long for the running head, you can set
+% an abbreviated paper title here
+%
+% \author{First Author\inst{1}\orcidID{0000-1111-2222-3333} \and
+% Second Author\inst{2,3}\orcidID{1111-2222-3333-4444} \and
+% Third Author\inst{3}\orcidID{2222--3333-4444-5555}}
+% %
+% \authorrunning{F. Author et al.}
+% % First names are abbreviated in the running head.
+% % If there are more than two authors, 'et al.' is used.
+% %
+% \institute{Princeton University, Princeton NJ 08544, USA \and
+% Springer Heidelberg, Tiergartenstr. 17, 69121 Heidelberg, Germany
+% \email{lncs@springer.com}\\
+% \url{http://www.springer.com/gp/computer-science/lncs} \and
+% ABC Institute, Rupert-Karls-University Heidelberg, Heidelberg, Germany\\
+% \email{\{abc,lncs\}@uni-heidelberg.de}}
+%
+\maketitle              % typeset the header of the contribution
+%
+%\begin{abstract}
+%The abstract should briefly summarize the contents of the paper in
+%15--250 words.
+
+%\keywords{First keyword  \and Second keyword \and Another keyword.}
+%\end{abstract}
+%
+%
+%
+
+We present here 2 queries that gives an overview of the possibles manipulations of entity matching contexts within an RDF graph. 
+The knowledge graph build for this use case results of the by merging DBpedia and YAGO entities of the class Museum and the addition of their entity matching contexts described according the RDF vocabulary provided in the article.
+The first query shows EMCs can be requested from its properties.
+For example we can list all pairs of entities in a the entity matching context that includes the property $\{islocatedin\}$ in $\varepsilon$, $\{preflabel,wascreatedonyear\}$ in $\Delta$ and $\{haslatitude,haslongitude,wascreatedondate\}$ in $\Omega$: 
+
+\begin{lstlisting}
+   SELECT  ?x ?y ?emc
+    WHERE {
+        ?x ?emc ?y .
+        
+        ?emc a ns1:EntityMatchingContext ; ns1:epsilon  ?epsilon ; ns1:delta  ?delta ; ns1:omega  ?omega .
+
+        ?epsilon ns1:includes ns1:islocatedin .
+        #?epsilon ns1:size 1 .
+
+        ?delta ns1:includes ns2:preflabel ; ns1:includes ns1:wascreatedonyear .
+        #?delta ns1:size 2 .
+
+        ?omega ns1:includes ns1:haslatitude , ns1:haslongitude , ns1:wascreatedondate .
+        #?omega ns1:size 3 .
+        }
+\end{lstlisting}
+Notice that if no sizes are given, we obtain not only the contexts specified, but also all the above contexts of the $\varepsilon$, $\Delta$ and $\Omega$ lattices (i.e. contexts that are more specific than those queried).
+
+
+The second query shows that given a pair of entities we can obtain the properties of their EMCs.
+For example, we list the properties of the entity matching context of the pair: "appalachian trail" museum for YAGO and "the museum of the american revolution" from DBpedia.
+
+\begin{lstlisting}
+     SELECT ?eprop ?dprop ?oprop
+    WHERE {
+        <appalachian_trail_museum_yago> ?p <museum_of_the_american_revolution_db> .
+        ?p a ns1:EntityMatchingContext ;
+            ns1:epsilon/ns1:includes ?eProp ;
+            ns1:delta/ns1:includes ?dProp ;
+            ns1:omega/ns1:includes ?oProp .
+        }
+\end{lstlisting}
+The EMCs for this pair is: $\{islocatedin\},\{islocatedin,skos:preflabel\},\{wascreatedonyear\}$
+
+\paragraph{Code:}
+The generation of the rdf graph is done by the script: iswc2024/rdf/museum\_rdf.py.
+Queries are in the script: iswc2024/rdf/test\_request.py.
+Queries results are in files iswc2024/rdf/pair\_with\_prop.res and swc2024/rdf/emc\_with\_prop.res.
+
+\end{document}

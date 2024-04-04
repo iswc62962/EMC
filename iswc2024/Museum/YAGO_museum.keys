@@ -1,0 +1,2 @@
+0-non keys: [[islocatedin, created-inv], [islocatedin, wascreatedonyear, wascreatedondate], [haslatitude, islocatedin, haslongitude, wascreatedonyear], [created-inv, wascreatedonyear], [islocatedin, skos:preflabel, wascreatedonyear]]
+5 discovered 0-non keys
