@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  4 APR 2024 10:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  9 APR 2024 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,17 +354,10 @@ e
 ))
 \c@lstlisting=\count316
 
-Overfull \hbox (57.44572pt too wide) in paragraph at lines 76--80
-\OT1/cmr/m/n/10 in $\OML/cmm/m/it/10 "$\OT1/cmr/m/n/10 , $\OMS/cmsy/m/n/10 f\OM
-L/cmm/m/it/10 preflabel; wascreatedonyear\OMS/cmsy/m/n/10 g$ \OT1/cmr/m/n/10 in
- $\OML/cmm/m/it/10 ^^A$ \OT1/cmr/m/n/10 and $\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10
- haslatitude; haslongitude; wascreatedondate\OMS/cmsy/m/n/10 g$
- []
-
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (56.07652pt too wide) in paragraph at lines 114--115
+Overfull \hbox (56.07652pt too wide) in paragraph at lines 125--126
 \OT1/cmr/m/n/10 The EMCs for this pair is: $\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 
 islocatedin\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 f\OML/cmm/m/it
 /10 islocatedin; skos \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 preflabel\OMS/cmsy/m/n
@@ -373,17 +366,23 @@ islocatedin\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 f\OML/cmm/m/it
  []
 
 
-Overfull \hbox (35.12132pt too wide) in paragraph at lines 117--120
+Overfull \hbox (35.12132pt too wide) in paragraph at lines 142--145
  \OT1/cmr/m/it/10 Code:[] \OT1/cmr/m/n/10 The gen-er-a-tion of the rdf graph is
  done by the script: iswc2024/rdf/museum[]rdf.py.
  []
 
+
+Overfull \hbox (97.31068pt too wide) in paragraph at lines 142--145
+\OT1/cmr/m/n/10 iswc2024/rdf/pair[]with[]prop.res, iswc2024/rdf/emc[]with[]prop
+.res and iswc2024/rdf/emc[]with[]prop.res 
+ []
+
 [2] (./sparql.aux) ) 
 Here is how much of TeX's memory you used:
- 5175 strings out of 478268
- 76722 string characters out of 5846347
- 467354 words of memory out of 5000000
- 23348 multiletter control sequences out of 15000+600000
+ 5182 strings out of 478268
+ 76757 string characters out of 5846347
+ 469354 words of memory out of 5000000
+ 23355 multiletter control sequences out of 15000+600000
  471131 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,67p,265b,1593s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -395,7 +394,7 @@ ts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mtt10.pfb>
-Output written on sparql.pdf (2 pages, 94177 bytes).
+Output written on sparql.pdf (2 pages, 95359 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

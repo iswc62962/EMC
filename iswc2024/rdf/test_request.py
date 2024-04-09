@@ -3,7 +3,7 @@ import rdflib
 # List all emc with property haslongitude in delta and islocatedin in omega
 def list_emc_with_prop(g):
     query ="""
-    SELECT  ?x ?emc ?y
+    SELECT  ?emc 
     WHERE {
         ?emc a ns1:EMC .
         ?emc ns1:epsilon  ?epsilon .
@@ -27,7 +27,7 @@ def list_emc_with_prop(g):
     for r in qres:
         print(r)
 
-# identity context of the pair louvre-lens-yago and jean-cocteau-musueum-db 
+# Context of the pair appalachian_trail_museum_yago and museum_of_the_american_revolution_db
 def test_pair_with_prop(g):
     query ="""
     SELECT ?eprop ?dprop ?oprop
@@ -49,40 +49,25 @@ def test_pair_with_prop(g):
     for r in qres:
         print(r)
 
-def test_count_pair_with_a_given_edo(g):
-    query ="""
-    SELECT  ?p (COUNT(?p) AS ?pTotal)
+# Most frequent EMC for Museum
+def most_frequent_emc(g):
+    query="""
+    SELECT ?emc (COUNT(?emc) AS ?count)
     WHERE {
-        ?i1 ?p ?i2 .
-        ?p a ns1:EMC .
-
-        ?p ns1:epsilon ?e .
-        ?p ns1:delta ?d .
-        ?p ns1:omega ?o .
-
-        ?e ns1:includes ns1:islocatedin .
-        ?e ns1:size 1 .
-
-        ?d ns1:includes ns1:islocatedin .
-        ?d ns1:includes ns2:preflabel .
-        ?d ns1:size 2 .
-
-        ?o ns1:includes ns1:wascreatedonyar .
-        ?o ns1:size 4 .
-
-    }
+        ?emc a ns1:EMC .
+        ?i1 ?emc ?i2
+        }
+    GROUP BY ?emc
+    ORDER BY DESC (?count)
     """
     qres = g.query(query)
     for r in qres:
         print(r)
-
-
-
-
 
 if __name__ == "__main__":
     g = rdflib.Graph()
     g.parse("museum_emc.ttl")
  
     list_emc_with_prop(g)
-    #test_pair_with_prop(g)
+    test_pair_with_prop(g)
+    #most_frequent_emc(g)

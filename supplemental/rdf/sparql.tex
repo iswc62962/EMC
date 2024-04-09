@@ -73,49 +73,74 @@
 %
 %
 
-We present here 2 queries that gives an overview of the possibles manipulations of entity matching contexts within an RDF graph. 
+We present here queries that gives an overview of the possibles manipulations of entity matching contexts within an RDF graph. 
 The knowledge graph build for this use case results of the by merging DBpedia and YAGO entities of the class Museum and the addition of their entity matching contexts described according the RDF vocabulary provided in the article.
+
+\paragraph{}
 The first query shows EMCs can be requested from its properties.
 For example we can list all pairs of entities in a the entity matching context that includes the property $\{islocatedin\}$ in $\varepsilon$, $\{preflabel,wascreatedonyear\}$ in $\Delta$ and $\{haslatitude,haslongitude,wascreatedondate\}$ in $\Omega$: 
 
 \begin{lstlisting}
-   SELECT  ?x ?y ?emc
+  SELECT  ?emc 
     WHERE {
-        ?x ?emc ?y .
-        
-        ?emc a ns1:EntityMatchingContext ; ns1:epsilon  ?epsilon ; ns1:delta  ?delta ; ns1:omega  ?omega .
+        ?emc a ns1:EMC .
+        ?emc ns1:epsilon  ?epsilon .
+        ?emc ns1:delta  ?delta .
+        ?emc ns1:omega  ?omega .
 
         ?epsilon ns1:includes ns1:islocatedin .
         #?epsilon ns1:size 1 .
 
-        ?delta ns1:includes ns2:preflabel ; ns1:includes ns1:wascreatedonyear .
+        ?delta ns1:includes ns2:preflabel .
+        ?delta ns1:includes ns1:wascreatedonyear .
         #?delta ns1:size 2 .
 
-        ?omega ns1:includes ns1:haslatitude , ns1:haslongitude , ns1:wascreatedondate .
+        ?omega ns1:includes ns1:haslatitude .
+        ?omega ns1:includes ns1:haslongitude .
+        ?omega ns1:includes ns1:wascreatedondate .
         #?omega ns1:size 3 .
         }
 \end{lstlisting}
 Notice that if no sizes are given, we obtain not only the contexts specified, but also all the above contexts of the $\varepsilon$, $\Delta$ and $\Omega$ lattices (i.e. contexts that are more specific than those queried).
 
-
+\paragraph{}
 The second query shows that given a pair of entities we can obtain the properties of their EMCs.
 For example, we list the properties of the entity matching context of the pair: "appalachian trail" museum for YAGO and "the museum of the american revolution" from DBpedia.
 
 \begin{lstlisting}
-     SELECT ?eprop ?dprop ?oprop
+    SELECT ?eprop ?dprop ?oprop
     WHERE {
         <appalachian_trail_museum_yago> ?p <museum_of_the_american_revolution_db> .
-        ?p a ns1:EntityMatchingContext ;
-            ns1:epsilon/ns1:includes ?eProp ;
-            ns1:delta/ns1:includes ?dProp ;
-            ns1:omega/ns1:includes ?oProp .
+        ?p a ns1:EMC .
+
+        ?p ns1:epsilon ?e .
+        ?p ns1:delta ?d .
+        ?p ns1:omega ?o .
+
+        ?e ns1:includes ?eprop .
+        ?d ns1:includes ?dprop .
+        ?o ns1:includes ?oprop .
         }
 \end{lstlisting}
 The EMCs for this pair is: $\{islocatedin\},\{islocatedin,skos:preflabel\},\{wascreatedonyear\}$
 
+
+\paragraph{}
+The third query list the most contexts for the class Museum.
+\begin{lstlisting}
+   SELECT ?emc (COUNT(?emc) AS ?count)
+    WHERE {
+        ?emc a ns1:EMC .
+        ?i1 ?emc ?i2
+        }
+    GROUP BY ?emc
+    ORDER BY DESC (?count)
+\end{lstlisting} 
+
+
 \paragraph{Code:}
 The generation of the rdf graph is done by the script: iswc2024/rdf/museum\_rdf.py.
 Queries are in the script: iswc2024/rdf/test\_request.py.
-Queries results are in files iswc2024/rdf/pair\_with\_prop.res and swc2024/rdf/emc\_with\_prop.res.
+Queries results are in files iswc2024/rdf/pair\_with\_prop.res, iswc2024/rdf/emc\_with\_prop.res and iswc2024/rdf/emc\_with\_prop.res
 
 \end{document}

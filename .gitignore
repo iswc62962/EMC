@@ -12,3 +12,6 @@ iswc2024/pattern/country_pattern_dataset
 iswc2024/pattern/director_work_pattern_dataset
 supplemental/.DS_Store
 iswc2024/rdf/museum_emc.ttl
+.DS_Store
+iswc2024/.DS_Store
+iswc2024/ratio/__pycache__/

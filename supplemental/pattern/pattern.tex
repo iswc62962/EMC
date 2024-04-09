@@ -78,23 +78,31 @@
 
 
 \subsection{Near identity relationship}
-In order to evaluate if entity matching contexts can help to identify pairs of entities engaged in a near identity relationship, we imagined the following scenario: In a first step a corpus of pairs of entities engaged in a near identity relationship is prepared by an expert. The near identity relationships represented by this corpus relate to a concept present in the world. It can be, for example the work of a writer or a film director. In a second step we compute all entity matching contexts for the pairs of the corpus. Given that there is an order of relation between contexts, we would like to know if keeping only the most representative properties of each context $\varepsilon$, $\Delta$ and $\Omega$ constitutes a reliable representation of the near identity relationship represented by this corpus.
+In order to evaluate if EMCs can help to identify pair of entities engaged in a near-identity relationship we provide the definition of signature and the notion of corpus.
+The definition of signature is related to the definition of the most frequent context in a lattice.
+\begin{definition}[Mot Frequent Context]
+Given an identity (resp. difference, incompleteness) lattice, and considering the order of relations between contexts, the most frequent context is the (no empty) context which accumulates the highest number of pairs.
+\end{definition}
 
-In other words, the aim of this use case is to determine whether there are one or few representatives derived entity matching context \textit{patterns} that summarise the near-identity relationships. 
-If so, it means that near identity relationships are detectable by the entity matching process through the entity matching contexts and patterns.
-Otherwise it means that despite the corpus provided we are not able to summarise the near identity relationship to few patterns. 
+\begin{definition}[Signature] \label{def:signature}
+Given a list of EMCs, their identity, difference and incompleteness lattices, the signature is the triplet composed with the most frequent context of identity lattice, the most frequent context of difference lattice and the most frequent context of incompleteness lattice.  
+\end{definition}
+In the sequel we use the term \textit{corpus} and the notation $c$ to design a list of EMCs and the notation $sign$ for a signature.
+It is possible to discover several signatures $S=\{sign1, sign2, ...\}$ for a given corpus. 
+
+This discovery is done iteratively: once the first signature $sign_{1}$ has been detected on a corpus $c_{1}$, the EMCs that matched $sign1$ are removed from $c_{1}$ leading to the creation of a corpus $c_{2}$ . 
+We then run a second iteration on $c_{2}$ in order to detect the next signature $sign_{2}$.
+The iteration stops when a \textit{coverage} reach a given threshold. 
+
+For a set of signatures $S$ and given initial corpus $c_{1}$, the coverage is defined by the number of EMCs that matches exactly one of the signatures in $S$ over the size of the initial corpus $c_{1}$. 
+\begin{equation*}
+c(S) = \frac{nb\_match\_EMCs}{size(c_{1})}
+\end{equation*}
 
 
-In order to make this determination we need to: (i) build a corpus  that represents near-identity relationships, (ii) design a procedure that derive pattern(s) from a collection of entity matching contexts, (iii) compute EMCs  from the corpus build in (i) and discover pattern(s) with the procedure designed in (ii).
-Finally (iv) we have to evaluate if pattern(s) is (are) representative of the corpus we have built up.
-To do this we simply compute the support of pattern(s) on the collection of EMCs computed in (iii). 
-    
-The subsection is organised as follows. 
-We first describe the building of 5 corpora.
-We then briefly explain the pattern derivation procedure.
-This procedure have been applied on the 5 corpora and  
-we present patterns obtained. 
-We have finally evaluated the representativeness of these patterns.
+
+Just as key discovery is used to highlight strong identity relationships,  we would like to highlight weak identity relationships using signatures. Signatures discovery is performed on a corpus and consists in searching the most frequent contexts in this corpus. The corpus provided must be representative of a weak identity relationship: for example individuals have been linked because they refer to the same general concept such as, the book's of a writer's work or films of a director's filmography. In this use case we want to evaluate if a weak identity relationship can be described with few signatures. In other words, obtaining a coverage $c(S)$ over 80\% with a limited set of signatures $S$.
+
 
 \subsubsection{Corpora construction}
 We have built 5 corpora representing 2 different categories of near entity relationship. (i) relations that describe a more general concept than the one encoded in knowledge graphs (the concept of a literary or cinematographic work versus the concept of a book or film) and 
@@ -142,13 +150,16 @@ The table 1 presents for each corpus the type of entities used to build the pair
     \label{tab:corpus-construction}
 \end{table}
 
-\subsubsection{Pattern Detection Procedure}
-To explicit patterns detection we present here a toy example. The table 2 presents 3 EMCs computed from pairs of books of Agatha Christie. The pairs share the same author in each case, but titles (label) differs and the number of pages or the isbn number are missing.  The last line of the table represents the pattern derived from these 3 relationships. Notice that in this toy example, all the EMCs matches with the pattern detected, we obtain a coverage of 100\%. 
+\subsubsection{Signature Detection}
+To explicit signatures detection we present here a toy example. The table 2 presents a corpus computed from pairs of books of Agatha Christie. The pairs share the same author in each case, but titles (label) differs and the number of pages or the isbn number are missing.  
+The most frequent identity context is $\{created-inv\}$, the most frequent difference context is $\{label\}$, the most frequent incompleteness context is $\{has\-pages\}$. 
+The last line of the table represents the signature as the concatenation of the 3 most frequent contexts. 
+Notice that in this toy example, all the EMCs matches with the first signature detected (we obtain a coverage of 100\%) we do not need a second iteration.
 
-
-\subsubsection{Pattern Discovery and Evaluation}
-In the same idea we performed pattern discovery (i) on the Literary Work and Film Work corpora and (ii) on the 3 corpora of books, mountains and universities from the same country. The first row of Table 3 shows that 90\% of the pairs from the literary works corpus are recognised by a single pattern $P1=\{created-inv\},\{skos:preflabel\},\{wascreatedonyear\}$. The second line shows that 2 patterns ($P2$ and $P3$) need to be combined for 90\% of the pairs in the cinematographic corpus to be recognised. The second part of Table 3 shows that 96\% of pairs from the book-mountain and book-university corpora are recognised by the same parttern. But it takes a combination of 4 patterns to recognise 98\% pairs of the mountain-university corpus.
-It appears that, on the 5 corpora studied, it is possible to summarise near-identity relationships with few patterns. 
+\subsubsection{Signature Discovery and Coverage}
+In the same idea we performed signature discovery (i) on the Literary Work and Film Work corpora and (ii) on the 3 corpora of books, mountains and universities from the same country. The first row of Table 3 shows that 90\% of the pairs from the literary works corpus are recognized by a single signature $s1=\{created-inv\},\{skos:preflabel\},\{wascreatedonyear\}$. The second line shows that 2 signatures ($s2$ and $s3$) need to be combined for 90\% of the pairs in the cinematographic corpus to be recognized. The second part of Table 3 shows that 96\% of pairs from the book-mountain and book-university corpora are recognized by the same signature. 
+But it takes a combination of 4 signatures to recognize 98\% pairs of the mountain-university corpus.
+It appears that, on the 5 corpora studied, it is possible to summarize near-identity relationships with few singatures. 
 
 \begin{table}[]
     \centering
@@ -160,36 +171,36 @@ It appears that, on the 5 corpora studied, it is possible to summarise near-iden
          i13,i23 & \{created-inv\}&\{label\}&\{has-pages\}\\
         \hline
         
-        pattern & \{created-inv\}&\{label\}&\{has-pages\} \\
+        signature & \{created-inv\}&\{label\}&\{has-pages\} \\
         
     \end{tabular}
-    \caption{The example of pattern construction based on 3 EMCs.}
-    \label{tab:pattern_example}
+    \caption{The example of signature construction based on 3 EMCs.}
+    \label{tab:signature_example}
 \end{table}
 
 \begin{table}[]
     \centering
     \begin{tabular}{l|l|c|c|c}
         \hline
-         corpus & pattern $\varepsilon\Delta\Omega$ & nb match & total nb EMCs & coverage   \\
+         corpus & signature $\varepsilon\Delta\Omega$ & nb match & total nb EMCs & coverage   \\
          \hline
        literary work  & & & & \\
-         & P1=\{created-inv\},\{skos:preflabel\},\{wascreatedonyear\}& & & \\
+         & s1=\{created-inv\},\{skos:preflabel\},\{wascreatedonyear\}& & & \\
        \hline  
-       & P1 & 148281 & 165508 & 0.90\\
+       & s1 & 148281 & 165508 & 0.90\\
        \hline
        film work & & & & \\  
-       & P2=\{directed-inv\}\{skos:preflabel\},\{wascreatedonyear\} & & & \\
-       & P3=\{directed-inv\}\{skos:preflabel\},\{islocatedin\} & & & \\
+       & s2=\{directed-inv\}\{skos:preflabel\},\{wascreatedonyear\} & & & \\
+       & s3=\{directed-inv\}\{skos:preflabel\},\{islocatedin\} & & & \\
        \hline
-        & P2 $\cup$ P3 & 606529 & 674952 & 0.90\\
+        & s2 $\cup$ s3 & 606529 & 674952 & 0.90\\
        %\hline
        \hline
        \hline
        book mountain & & & & \\  
-       & P4=\{islocatedin\},\{skos:preflabel\}, \{created-inv\}& & & \\
+       & s4=\{islocatedin\},\{skos:preflabel\}, \{created-inv\}& & & \\
        \hline
-       & P4 & 15320925 & 15993180 & 0.96\\
+       & s4 & 15320925 & 15993180 & 0.96\\
        \hline
        book university & & & &  \\
        & P5=\{islocatedin\},\{skos:preflabel\},\{created-inv\}& & & \\
@@ -197,20 +208,20 @@ It appears that, on the 5 corpora studied, it is possible to summarise near-iden
        & P5 & 15320840 & 15993082 & 0.96 \\
        \hline
        mountain university  & & & & \\
-       & P6=\{islocatedin\},\{islocatedin\},\{haslatitude\}, \{haslongitude\}& & & \\
-       &P7=\{islocatedin\},\{islocatedin\},\{graduatedfrom-inv\}& & & \\
-       &P8=\{islocatedin\}\{islocatedin\},\{\}& & & \\
-       &P9=\{islocatedin\}\{islocatedin\},\{hasmotto\}& & & \\
+       & s6=\{islocatedin\},\{islocatedin\},\{haslatitude\}, \{haslongitude\}& & & \\
+       &s7=\{islocatedin\},\{islocatedin\},\{graduatedfrom-inv\}& & & \\
+       &s8=\{islocatedin\}\{islocatedin\},\{\}& & & \\
+       &s9=\{islocatedin\}\{islocatedin\},\{hasmotto\}& & & \\
        \hline
-       &P6 $\cup$ P7 $\cup$ P8 $\cup$ P9 & 4708646 & 4795678& 0.98\\
+       &s6 $\cup$ s7 $\cup$ s8 $\cup$ s9 & 4708646 & 4795678& 0.98\\
        \hline
     \end{tabular}
-    \caption{Patterns detection on corpora.The coverage is computed as follows: $\frac{nb\_EMCs\_that\_matches\_pattern}{nb\_total\_ EMCs}$}
-    \label{tab:pattern_detection}
+    \caption{signatures detection on corpora.The coverage is computed as follows: $\frac{nb\_EMCs\_that\_matches\_pattern}{nb\_total\_ EMCs}$}
+    \label{tab:signature_detection}
 \end{table}
 
 \subsection{Code}
-Corpora construction, pattern detection and representativeness evaluation are available in the following scripts:
+Corpora construction, signature detection and coverage computation are available in the following scripts:
 \begin{itemize}
 	\item iswc2024/pattern/author\_work\_pattern.py for the corpus author work
 	\item iswc2024/pattern/director\_work\_pattern.py for the corpus cinematographic work
