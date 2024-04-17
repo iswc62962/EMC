@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  9 APR 2024 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  17 APR 2024 11:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -420,7 +420,7 @@ pe1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb>
-Output written on pattern.pdf (5 pages, 177445 bytes).
+Output written on pattern.pdf (5 pages, 177254 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
