@@ -1,5 +1,6 @@
 This is the supplementary material and the code for Entity Matching Contexts
 
+ 
 # EMCs 
 - EMCs have been detected on the VICKEY dataset
 - Classes studied are: Album, Actor, University, Book, Film and Mountain
@@ -23,5 +24,6 @@ This is the supplementary material and the code for Entity Matching Contexts
 provided in the document supplemental/pattern/pattern.pdf
 
 # Use case: Sparql Queries
+- rdf graph used for queries of the section 6.2 is available here: http://tiny.cc/nkspxz
 - rdf graph generation and sparql queries are 
 provided in the document supplemental/rdf/sparql.pdf
